@@ -568,41 +568,6 @@ W&$\delta$&$\phi$&POP&$\alpha$&$\beta$&$\gamma$&m&K&L\\ \hline
 和备选路径MILP模型的Cplex解相比，LR-STEA/LR-PTEA的解明显优于Cplex的解。随着业务数量的增加，LR-STEA/LR-PTEA解和Cplex解的距离逐渐拉开，这是因为Cplex的计算压力随着业务规模的增加而增大，使得Cplex不能在有限时间内找到更好的解。
 
 图\ref{OB-CA}表示的是在容量变化下的目标函数值的变化，其中业务数量为6000，网络链路容量从100到250变化。我们看到，随着容量的增加，目标函数大致呈现线性下降。当链路容量等于250时，LR-PTEA/LR-STEA已经很接近MILP的下界了，这说明LR-PTEA/LR-STEA在网络资源足够时，能很好的优化路由代价。
-\vspace{0.8cm}
-\begin{figure}
-\setlength{\abovecaptionskip}{-0.5cm}
-\begin{center}
-{\includegraphics[width=0.8 \textwidth]{figures/OB-TA.pdf}}
-\end{center}
-\caption{{\footnotesize{目标函数值随业务数量变化示意图}}}
-\label{OB-TA}
-\end{figure}
-\begin{figure}
-%\vspace{-0.2cm}
-\setlength{\abovecaptionskip}{-0.5cm}
-\begin{center}
-{\includegraphics[width=0.8 \textwidth]{figures/OB-CA.pdf}}
-\end{center}
-\caption{{\footnotesize{目标函数值随链路容量变化示意图}}}
-\label{OB-CA}
-\end{figure}
-
-\begin{figure}
-\setlength{\abovecaptionskip}{-0.5cm}
-\begin{center}
-{\includegraphics[width=0.8\textwidth]{figures/TI-ER-TA-1000.pdf}}
-\end{center}
-\caption{{\footnotesize{计算时间随业务数量变化示意图(ER)}}}
-\label{TI-ER-TA-1000}
-\end{figure}
-\begin{figure} 
-\setlength{\abovecaptionskip}{-0.5cm}
-\begin{center}
-{\includegraphics[width=0.8\textwidth]{figures/TI-BA-TA-1000.pdf}}
-\end{center}
-\caption{{\footnotesize{计算时间随业务数量变化示意图(BA)}}}
-\label{TI-BA-TA-1000}
-\end{figure}
 
 \subsection{算法时间比较}
 图 \ref{TI-ER-TA-1000}和图 \ref{TI-BA-TA-1000}分别列出了各个算法在BA和ER拓扑下的计算时间随着业务数量增加的变化情况，图中拓扑节点数量为1000，业务数量从1000 到6000变化，链路的容量为100。由于各种算法的时间差距过大，我们用三种不同的尺度进行展示。首先，Cplex的时间限制都为10分钟，所以我们不再列出来。
@@ -615,6 +580,45 @@ W&$\delta$&$\phi$&POP&$\alpha$&$\beta$&$\gamma$&m&K&L\\ \hline
 
 
 图 \ref{TI-BA-NO}和图 \ref{TI-ER-NO}表示算法计算时间随着网络拓扑大小的变化情况，其中到达网络的业务数量为网络拓扑点数目的4倍，可以看到随着网络拓扑变大，计算时间也相应增加，GA-PTEA的计算时间不管在小拓扑还是大拓扑下都远远大于LR-PTEA 的计算时间。拓扑较小时LR-PTEA相对与LR-STEA的加速很小，但随着网络拓扑规模的增加，LR-STEA的计算时间大幅上升，而采用GPU加速计算的LR-PTEA上升幅度较小，网络拓扑达到一定规模后LR-PTEA对LR-STEA有较大的加速优势。
+\vspace{0.8cm}
+\begin{figure}
+\setlength{\abovecaptionskip}{-0.5cm}
+\begin{center}
+{\includegraphics[width=0.8 \textwidth]{figures/OB-TA.pdf}}
+\end{center}
+\caption{{\footnotesize{目标函数值随业务数量变化示意图}}}
+\label{OB-TA}
+\end{figure}
+\begin{figure}
+\vspace{-0.2cm}
+\setlength{\abovecaptionskip}{-0.5cm}
+\begin{center}
+{\includegraphics[width=0.8 \textwidth]{figures/OB-CA.pdf}}
+\end{center}
+\caption{{\footnotesize{目标函数值随链路容量变化示意图}}}
+\label{OB-CA}
+\end{figure}
+
+\begin{figure}
+\setlength{\abovecaptionskip}{-0.5cm}
+\begin{center}
+\vspace{-1cm}
+{\includegraphics[width=0.9\textwidth]{figures/TI-ER-TA-1000.pdf}}
+\end{center}
+\caption{{\footnotesize{计算时间随业务数量变化示意图(ER)}}}
+\label{TI-ER-TA-1000}
+\end{figure}
+\begin{figure} 
+\vspace{-2cm}
+\setlength{\abovecaptionskip}{-0.5cm}
+\begin{center}
+{\includegraphics[width=0.9\textwidth]{figures/TI-BA-TA-1000.pdf}}
+\end{center}
+\caption{{\footnotesize{计算时间随业务数量变化示意图(BA)}}}
+\label{TI-BA-TA-1000}
+\end{figure}
+
+
 
 \begin{figure}
 \setlength{\abovecaptionskip}{-0.5cm}

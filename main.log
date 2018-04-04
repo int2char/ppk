@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.3.16)  4 APR 2018 11:32
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.3.16)  4 APR 2018 14:54
 entering extended mode
 **./main.tex
 (main.tex
@@ -2155,7 +2155,7 @@ File: figures/random.pdf Graphic file (type pdf)
  [32] [33]
 File: figures/PathAdj.pdf Graphic file (type pdf)
 <use figures/PathAdj.pdf>
- [34] [35] [36] [37]
+ [34] [35] [36] [37] [38]
 File: figures/OB-TA.pdf Graphic file (type pdf)
 <use figures/OB-TA.pdf>
 File: figures/OB-CA.pdf Graphic file (type pdf)
@@ -2164,9 +2164,9 @@ File: figures/TI-ER-TA-1000.pdf Graphic file (type pdf)
 <use figures/TI-ER-TA-1000.pdf>
 File: figures/TI-BA-TA-1000.pdf Graphic file (type pdf)
 <use figures/TI-BA-TA-1000.pdf>
- [38] [39] [40]
 File: figures/TI-ER-NO.pdf Graphic file (type pdf)
 <use figures/TI-ER-NO.pdf>
+ [39] [40]
 File: figures/TI-BA-NO.pdf Graphic file (type pdf)
 <use figures/TI-BA-NO.pdf>
 File: figures/GA-CO.pdf Graphic file (type pdf)
@@ -2293,11 +2293,11 @@ File: figures/H20T.pdf Graphic file (type pdf)
 File: figures/H40T.pdf Graphic file (type pdf)
 <use figures/H40T.pdf>
  [60] [61] [62] [63] [64]
+File: figures/H20Z.pdf Graphic file (type pdf)
+<use figures/H20Z.pdf>
+ [65]
 File: figures/H30Z.pdf Graphic file (type pdf)
 <use figures/H30Z.pdf>
- [65]
-File: figures/H40Z.pdf Graphic file (type pdf)
-<use figures/H40Z.pdf>
 ) [66]
 Chapter 第五章.
 [67
@@ -2382,7 +2382,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  36591 strings out of 427836
  658986 string characters out of 3152479
- 839065 words of memory out of 3000000
+ 840065 words of memory out of 3000000
  39980 multiletter control sequences out of 15000+200000
  585197 words of font info for 133 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191

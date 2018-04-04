@@ -95,9 +95,9 @@
  \cftsetpnumwidth {\widthof {37}-1pt} 
  \cftsetpnumwidth {\widthof {38}-1pt} 
 \contentsline {subsection}{\numberline {3.5.2}目标函数比较}{38}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}算法时间比较}{38}{subsection.3.5.3}
  \cftsetpnumwidth {\widthof {39}-1pt} 
  \cftsetpnumwidth {\widthof {40}-1pt} 
-\contentsline {subsection}{\numberline {3.5.3}算法时间比较}{40}{subsection.3.5.3}
  \cftsetpnumwidth {\widthof {41}-1pt} 
 \contentsline {subsection}{\numberline {3.5.4}算法收敛性}{41}{subsection.3.5.4}
 \contentsline {section}{\numberline {3.6}本章总结}{41}{section.3.6}
