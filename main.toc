@@ -90,14 +90,14 @@
  \cftsetpnumwidth {\widthof {35}-1pt} 
  \cftsetpnumwidth {\widthof {36}-1pt} 
 \contentsline {subsection}{\numberline {3.4.5}终止条件}{36}{subsection.3.4.5}
+\contentsline {section}{\numberline {3.5}仿真实验分析}{36}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}仿真介绍}{36}{subsection.3.5.1}
  \cftsetpnumwidth {\widthof {37}-1pt} 
-\contentsline {section}{\numberline {3.5}仿真实验分析}{37}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}仿真介绍}{37}{subsection.3.5.1}
  \cftsetpnumwidth {\widthof {38}-1pt} 
 \contentsline {subsection}{\numberline {3.5.2}目标函数比较}{38}{subsection.3.5.2}
-\contentsline {subsection}{\numberline {3.5.3}算法时间比较}{38}{subsection.3.5.3}
  \cftsetpnumwidth {\widthof {39}-1pt} 
  \cftsetpnumwidth {\widthof {40}-1pt} 
+\contentsline {subsection}{\numberline {3.5.3}算法时间比较}{40}{subsection.3.5.3}
  \cftsetpnumwidth {\widthof {41}-1pt} 
 \contentsline {subsection}{\numberline {3.5.4}算法收敛性}{41}{subsection.3.5.4}
 \contentsline {section}{\numberline {3.6}本章总结}{41}{section.3.6}
@@ -158,9 +158,9 @@
  \cftsetpnumwidth {\widthof {68}-1pt} 
 \setcounter {tocdepth}{0}
  \cftsetpnumwidth {\widthof {69}-1pt} 
-\contentsline {chapter}{致\hspace {12pt}谢}{69}{chapter*.75}
+\contentsline {chapter}{致\hspace {12pt}谢}{69}{chapter*.74}
  \cftsetpnumwidth {\widthof {70}-1pt} 
-\contentsline {chapter}{参考文献}{70}{chapter*.76}
+\contentsline {chapter}{参考文献}{70}{chapter*.75}
  \cftsetpnumwidth {\widthof {71}-1pt} 
  \cftsetpnumwidth {\widthof {72}-1pt} 
  \cftsetpnumwidth {\widthof {73}-1pt} 
