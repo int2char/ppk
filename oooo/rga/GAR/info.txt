@@ -1,0 +1,245 @@
+run info for GA serial:node:1000edge6032task:1000capacity100
+run info for GA serial:node:1000edge6032task:2000capacity100
+run info for GA serial:node:1000edge6032task:3000capacity100
+run info for GA serial:node:1000edge6032task:4000capacity100
+run info for GA serial:node:1000edge6032task:5000capacity100
+run info for GA serial:node:1000edge6032task:6000capacity100
+../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:306188
+service size6000
+graph size:6032
+node:1000
+task:6000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:100
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more1.29657e+07
+1753 1753
+after totalv1.22299e+07gap is735727
+in check
+check corrected!!!
+lowbound is:1.53094e+07
+addinpart is:-3.07946e+06
+GA Serial searching.......
+run info for GA serial:node:1000edge6032task:6000capacity100
+2490 2490
+in check
+check corrected!!!
+lowbound is:15309400
+addinpart is:-3887538
+what happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:306188
+service size6000
+graph size:6032
+node:1000
+task:6000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:150
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more9.44025e+06
+3592 3592
+after totalv9.25606e+06gap is184189
+in check
+check corrected!!!
+lowbound is:1.53094e+07
+addinpart is:-6.05334e+06
+GA Serial searching.......
+run info for GA serial:node:1000edge6032task:6000capacity150
+3635 3635
+in check
+check corrected!!!
+lowbound is:15309400
+addinpart is:-6132393
+what happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:306188
+service size6000
+graph size:6032
+node:1000
+task:6000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:200
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more7.3525e+06
+4186 4186
+after totalv7.08946e+06gap is263039
+in check
+check corrected!!!
+lowbound is:1.53094e+07
+addinpart is:-8.21994e+06
+GA Serial searching.......
+run info for GA serial:node:1000edge6032task:6000capacity200
+4214 4214
+in check
+check corrected!!!
+lowbound is:15309400
+addinpart is:-8274004
+what happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:306188
+service size6000
+graph size:6032
+node:1000
+task:6000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:250
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more5.08922e+06
+5059 5059
+after totalv4.81773e+06gap is271487
+in check
+check corrected!!!
+lowbound is:1.53094e+07
+addinpart is:-1.04917e+07
+GA Serial searching.......
+run info for GA serial:node:1000edge6032task:6000capacity250
+5010 5010
+in check
+check corrected!!!
+lowbound is:15309400
+addinpart is:-10378238
+what happened
+hererun info for GA serial:node:1000edge5980task:1000capacity100
+run info for GA serial:node:1000edge5980task:2000capacity100
+run info for GA serial:node:1000edge5980task:3000capacity100
+run info for GA serial:node:1000edge5980task:4000capacity100
+run info for GA serial:node:1000edge5980task:5000capacity100
+run info for GA serial:node:1000edge5980task:6000capacity100
+../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:306188
+service size6000
+graph size:5980
+node:1000
+task:6000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:100
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more1.1192e+07
+2698 2698
+after totalv1.08458e+07gap is346133
+in check
+check corrected!!!
+lowbound is:1.53094e+07
+addinpart is:-4.46356e+06
+GA Serial searching.......
+run info for GA serial:node:1000edge5980task:6000capacity100
+2633 2633
+in check
+check corrected!!!
+lowbound is:15309400
+addinpart is:-4466498
+what happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:306188
+service size6000
+graph size:5980
+node:1000
+task:6000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:150
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more8.93763e+06
+3788 3788
+after totalv8.50997e+06gap is427662
+in check
+check corrected!!!
+lowbound is:1.53094e+07
+addinpart is:-6.79943e+06
+GA Serial searching.......
+run info for GA serial:node:1000edge5980task:6000capacity150
+3801 3801
+in check
+check corrected!!!
+lowbound is:15309400
+addinpart is:-6856727
+what happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:306188
+service size6000
+graph size:5980
+node:1000
+task:6000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:200
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more6.64145e+06
+4488 4488
+after totalv6.01472e+06gap is626734
+in check
+check corrected!!!
+lowbound is:1.53094e+07
+addinpart is:-9.29468e+06
+GA Serial searching.......
+run info for GA serial:node:1000edge5980task:6000capacity200
+4511 4511
+in check
+check corrected!!!
+lowbound is:15309400
+addinpart is:-9276675
+what happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:306188
+service size6000
+graph size:5980
+node:1000
+task:6000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:250
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more4.53366e+06
+5346 5346
+after totalv3.46595e+06gap is1.06771e+06
+in check
+check corrected!!!
+lowbound is:1.53094e+07
+addinpart is:-1.18434e+07
+GA Serial searching.......
+run info for GA serial:node:1000edge5980task:6000capacity250
+5340 5340
+in check
+check corrected!!!
+lowbound is:15309400
+addinpart is:-11765131
+what happened
+here

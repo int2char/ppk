@@ -1,0 +1,277 @@
+../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:51295
+service size1000
+graph size:6032
+node:1000
+task:1000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:100
+Lagrange parrel searching..............
+tweight is: 630686
+in check
+check corrected!!!
+lowbound is:2.56475e+06
+addinpart is:-1.93406e+06
+hereLagrange serial searching..............
+tweight is: 289813
+in check
+check corrected!!!
+lowbound is:2564750
+addinpart is:-2274937
+herewhat happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:102268
+service size2000
+graph size:6032
+node:1000
+task:2000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:100
+Lagrange parrel searching..............
+tweight is: 1.61485e+06
+in check
+check corrected!!!
+lowbound is:5.1134e+06
+addinpart is:-3.49855e+06
+hereLagrange serial searching..............
+tweight is: 1383926
+in check
+check corrected!!!
+lowbound is:5113400
+addinpart is:-3729474
+herewhat happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:152246
+service size3000
+graph size:6032
+node:1000
+task:3000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:100
+Lagrange parrel searching..............
+tweight is: 3.42747e+06
+in check
+check corrected!!!
+lowbound is:7.6123e+06
+addinpart is:-4.18483e+06
+hereLagrange serial searching..............
+tweight is: 3323709
+in check
+check corrected!!!
+lowbound is:7612300
+addinpart is:-4288591
+herewhat happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:203266
+service size4000
+graph size:6032
+node:1000
+task:4000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:100
+Lagrange parrel searching..............
+tweight is: 5.64426e+06
+in check
+check corrected!!!
+lowbound is:1.01633e+07
+addinpart is:-4.51904e+06
+hereLagrange serial searching..............
+tweight is: 5618046
+in check
+check corrected!!!
+lowbound is:10163300
+addinpart is:-4545254
+herewhat happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:254457
+service size5000
+graph size:6032
+node:1000
+task:5000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:100
+Lagrange parrel searching..............
+tweight is: 7.94426e+06
+in check
+check corrected!!!
+lowbound is:1.27228e+07
+addinpart is:-4.77859e+06
+hereLagrange serial searching..............
+tweight is: 7913984
+in check
+check corrected!!!
+lowbound is:12722850
+addinpart is:-4808866
+herewhat happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:306188
+service size6000
+graph size:6032
+node:1000
+task:6000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:100
+Lagrange parrel searching..............
+tweight is: 1.03118e+07
+in check
+check corrected!!!
+lowbound is:1.53094e+07
+addinpart is:-4.99758e+06
+hereLagrange serial searching..............
+tweight is: 10336097
+in check
+check corrected!!!
+lowbound is:15309400
+addinpart is:-4973303
+herewhat happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:51295
+service size1000
+graph size:5980
+node:1000
+task:1000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:100
+Lagrange parrel searching..............
+tweight is: 535006
+in check
+check corrected!!!
+lowbound is:2.56475e+06
+addinpart is:-2.02974e+06
+hereLagrange serial searching..............
+tweight is: 205438
+in check
+check corrected!!!
+lowbound is:2564750
+addinpart is:-2359312
+herewhat happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:102268
+service size2000
+graph size:5980
+node:1000
+task:2000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:100
+Lagrange parrel searching..............
+tweight is: 1.33313e+06
+in check
+check corrected!!!
+lowbound is:5.1134e+06
+addinpart is:-3.78027e+06
+hereLagrange serial searching..............
+tweight is: 978630
+in check
+check corrected!!!
+lowbound is:5113400
+addinpart is:-4134770
+herewhat happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:152246
+service size3000
+graph size:5980
+node:1000
+task:3000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:100
+Lagrange parrel searching..............
+tweight is: 2.88329e+06
+in check
+check corrected!!!
+lowbound is:7.6123e+06
+addinpart is:-4.72901e+06
+hereLagrange serial searching..............
+tweight is: 2840057
+in check
+check corrected!!!
+lowbound is:7612300
+addinpart is:-4772243
+herewhat happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:203266
+service size4000
+graph size:5980
+node:1000
+task:4000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:100
+Lagrange parrel searching..............
+tweight is: 5.06061e+06
+in check
+check corrected!!!
+lowbound is:1.01633e+07
+addinpart is:-5.10269e+06
+hereLagrange serial searching..............
+tweight is: 5026614
+in check
+check corrected!!!
+lowbound is:10163300
+addinpart is:-5136686
+herewhat happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:254457
+service size5000
+graph size:5980
+node:1000
+task:5000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:100
+Lagrange parrel searching..............
+tweight is: 7.28558e+06
+in check
+check corrected!!!
+lowbound is:1.27228e+07
+addinpart is:-5.43727e+06
+hereLagrange serial searching..............
+tweight is: 7307834
+in check
+check corrected!!!
+lowbound is:12722850
+addinpart is:-5415016
+herewhat happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:306188
+service size6000
+graph size:5980
+node:1000
+task:6000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:100
+Lagrange parrel searching..............
+tweight is: 9.64322e+06
+in check
+check corrected!!!
+lowbound is:1.53094e+07
+addinpart is:-5.66618e+06
+hereLagrange serial searching..............
+tweight is: 9670152
+in check
+check corrected!!!
+lowbound is:15309400
+addinpart is:-5639248
+herewhat happened
+here

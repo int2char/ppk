@@ -1,0 +1,337 @@
+../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:51295
+service size1000
+graph size:6032
+node:1000
+task:1000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:100
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more477568
+972 972
+after totalv348089gap is129479
+in check
+check corrected!!!
+lowbound is:2.56475e+06
+addinpart is:-2.21666e+06
+GA Serial searching.......
+968 968
+in check
+check corrected!!!
+lowbound is:2564750
+addinpart is:-2203879
+what happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:102268
+service size2000
+graph size:6032
+node:1000
+task:2000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:100
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more2.31914e+06
+1512 1512
+after totalv2.13225e+06gap is186892
+in check
+check corrected!!!
+lowbound is:5.1134e+06
+addinpart is:-2.98115e+06
+GA Serial searching.......
+1553 1553
+in check
+check corrected!!!
+lowbound is:5113400
+addinpart is:-3061457
+what happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:152246
+service size3000
+graph size:6032
+node:1000
+task:3000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:100
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more4.42369e+06
+1896 1896
+after totalv4.23747e+06gap is186224
+in check
+check corrected!!!
+lowbound is:7.6123e+06
+addinpart is:-3.37483e+06
+GA Serial searching.......
+1879 1879
+in check
+check corrected!!!
+lowbound is:7612300
+addinpart is:-3371069
+what happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:203266
+service size4000
+graph size:6032
+node:1000
+task:4000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:100
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more6.72483e+06
+2145 2145
+after totalv6.54031e+06gap is184522
+in check
+check corrected!!!
+lowbound is:1.01633e+07
+addinpart is:-3.62299e+06
+GA Serial searching.......
+2166 2166
+in check
+check corrected!!!
+lowbound is:10163300
+addinpart is:-3616999
+what happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:254457
+service size5000
+graph size:6032
+node:1000
+task:5000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:100
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more9.13139e+06
+2333 2333
+after totalv8.95054e+06gap is180843
+in check
+check corrected!!!
+lowbound is:1.27228e+07
+addinpart is:-3.77231e+06
+GA Serial searching.......
+2323 2323
+in check
+check corrected!!!
+lowbound is:12722850
+addinpart is:-3776975
+what happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:306188
+service size6000
+graph size:6032
+node:1000
+task:6000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:100
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more1.15415e+07
+2488 2488
+after totalv1.13876e+07gap is153957
+in check
+check corrected!!!
+lowbound is:1.53094e+07
+addinpart is:-3.92184e+06
+GA Serial searching.......
+2490 2490
+in check
+check corrected!!!
+lowbound is:15309400
+addinpart is:-3887538
+what happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:51295
+service size1000
+graph size:5980
+node:1000
+task:1000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:100
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more454645
+987 987
+after totalv247605gap is207040
+in check
+check corrected!!!
+lowbound is:2.56475e+06
+addinpart is:-2.31714e+06
+GA Serial searching.......
+981 981
+in check
+check corrected!!!
+lowbound is:2564750
+addinpart is:-2292587
+what happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:102268
+service size2000
+graph size:5980
+node:1000
+task:2000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:100
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more2.19071e+06
+1650 1650
+after totalv1.62956e+06gap is561147
+in check
+check corrected!!!
+lowbound is:5.1134e+06
+addinpart is:-3.48384e+06
+GA Serial searching.......
+1653 1653
+in check
+check corrected!!!
+lowbound is:5113400
+addinpart is:-3524764
+what happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:152246
+service size3000
+graph size:5980
+node:1000
+task:3000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:100
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more4.16124e+06
+1989 1989
+after totalv3.80709e+06gap is354145
+in check
+check corrected!!!
+lowbound is:7.6123e+06
+addinpart is:-3.80521e+06
+GA Serial searching.......
+1980 1980
+in check
+check corrected!!!
+lowbound is:7612300
+addinpart is:-3756643
+what happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:203266
+service size4000
+graph size:5980
+node:1000
+task:4000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:100
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more6.49748e+06
+2260 2260
+after totalv6.09841e+06gap is399069
+in check
+check corrected!!!
+lowbound is:1.01633e+07
+addinpart is:-4.06489e+06
+GA Serial searching.......
+2284 2284
+in check
+check corrected!!!
+lowbound is:10163300
+addinpart is:-4103633
+what happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:254457
+service size5000
+graph size:5980
+node:1000
+task:5000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:100
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more8.71448e+06
+2515 2515
+after totalv8.3876e+06gap is326876
+in check
+check corrected!!!
+lowbound is:1.27228e+07
+addinpart is:-4.33524e+06
+GA Serial searching.......
+2470 2470
+in check
+check corrected!!!
+lowbound is:12722850
+addinpart is:-4300725
+what happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:306188
+service size6000
+graph size:5980
+node:1000
+task:6000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:100
+asdassdasdsads
+GA Parallel searching.......
+check over!!tof: 
+out check 
+before more1.11767e+07
+2687 2687
+after totalv1.08466e+07gap is330067
+in check
+check corrected!!!
+lowbound is:1.53094e+07
+addinpart is:-4.46279e+06
+GA Serial searching.......
+2633 2633
+in check
+check corrected!!!
+lowbound is:15309400
+addinpart is:-4466498
+what happened
+here
