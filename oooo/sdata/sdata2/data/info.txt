@@ -1,0 +1,8105 @@
+../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:306188
+service size6000
+graph size:6032
+node:1000
+task:6000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:150
+Lagrange parrel searching..............
+tweight is: 1.38964e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67224e+08
+tweight is: 1.38353e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67834e+08
+tweight is: 1.37384e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68804e+08
+tweight is: 1.38664e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67523e+08
+tweight is: 1.38543e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67645e+08
+tweight is: 1.3843e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67758e+08
+tweight is: 1.38112e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68076e+08
+tweight is: 1.38309e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67879e+08
+tweight is: 1.38577e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67612e+08
+tweight is: 1.37846e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68342e+08
+tweight is: 1.38147e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68041e+08
+tweight is: 1.38223e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67964e+08
+tweight is: 1.38577e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67611e+08
+tweight is: 1.37863e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68325e+08
+tweight is: 1.38389e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67798e+08
+tweight is: 1.39329e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.66859e+08
+tweight is: 1.38352e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67835e+08
+tweight is: 1.38246e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67942e+08
+tweight is: 1.38291e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67897e+08
+tweight is: 1.38752e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67436e+08
+tweight is: 1.39341e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.66847e+08
+tweight is: 1.38568e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6762e+08
+tweight is: 1.38717e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67471e+08
+tweight is: 1.37798e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6839e+08
+tweight is: 1.37976e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68211e+08
+tweight is: 1.38873e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67315e+08
+tweight is: 1.38748e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6744e+08
+tweight is: 1.38768e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6742e+08
+tweight is: 1.38386e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67802e+08
+tweight is: 1.39336e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.66852e+08
+tweight is: 1.38823e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67365e+08
+tweight is: 1.38159e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68029e+08
+tweight is: 1.38426e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67762e+08
+tweight is: 1.38573e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67615e+08
+tweight is: 1.38989e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67199e+08
+tweight is: 1.38728e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6746e+08
+tweight is: 1.38734e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67454e+08
+tweight is: 1.39108e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67079e+08
+tweight is: 1.39125e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67062e+08
+tweight is: 1.37981e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68207e+08
+tweight is: 1.3792e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68267e+08
+tweight is: 1.38576e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67612e+08
+tweight is: 1.37945e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68243e+08
+tweight is: 1.38131e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68057e+08
+tweight is: 1.38442e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67746e+08
+tweight is: 1.38448e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6774e+08
+tweight is: 1.38066e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68122e+08
+tweight is: 1.37947e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68241e+08
+tweight is: 1.3879e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67397e+08
+tweight is: 1.39598e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6659e+08
+tweight is: 1.38428e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6776e+08
+tweight is: 1.38831e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67357e+08
+tweight is: 1.38697e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6749e+08
+tweight is: 1.38215e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67973e+08
+tweight is: 1.38319e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67869e+08
+tweight is: 1.3775e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68438e+08
+tweight is: 1.3916e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67028e+08
+tweight is: 1.39208e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6698e+08
+tweight is: 1.38278e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6791e+08
+tweight is: 1.38941e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67247e+08
+tweight is: 1.3839e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67798e+08
+tweight is: 1.38362e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67825e+08
+tweight is: 1.38199e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67989e+08
+tweight is: 1.38134e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68053e+08
+tweight is: 1.3841e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67778e+08
+tweight is: 1.39271e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.66917e+08
+tweight is: 1.38752e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67436e+08
+tweight is: 1.38616e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67572e+08
+tweight is: 1.38757e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67431e+08
+tweight is: 1.38728e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6746e+08
+tweight is: 1.38299e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67888e+08
+tweight is: 1.37395e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68793e+08
+tweight is: 1.38267e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67921e+08
+tweight is: 1.38208e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6798e+08
+tweight is: 1.38505e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67683e+08
+tweight is: 1.38282e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67906e+08
+tweight is: 1.37986e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68202e+08
+tweight is: 1.38677e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67511e+08
+tweight is: 1.39326e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.66862e+08
+tweight is: 1.38274e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67913e+08
+tweight is: 1.37803e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68385e+08
+tweight is: 1.38473e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67714e+08
+tweight is: 1.38423e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67764e+08
+tweight is: 1.37873e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68315e+08
+tweight is: 1.3855e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67638e+08
+tweight is: 1.38503e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67685e+08
+tweight is: 1.38275e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67912e+08
+tweight is: 1.38085e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68103e+08
+tweight is: 1.38106e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68082e+08
+tweight is: 1.38867e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6732e+08
+tweight is: 1.38571e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67617e+08
+tweight is: 1.37943e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68245e+08
+tweight is: 1.38746e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67442e+08
+tweight is: 1.39255e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.66934e+08
+tweight is: 1.38286e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67902e+08
+tweight is: 1.38829e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67358e+08
+tweight is: 1.3816e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68028e+08
+tweight is: 1.37949e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.68238e+08
+tweight is: 1.38276e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.67911e+08
+tweight is: 1.39368e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.6682e+08
+hereLagrange serial searching..............
+tweight is: 138918432
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167269312
+tweight is: 138318208
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167869216
+tweight is: 138762944
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167425248
+tweight is: 138088384
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168099520
+tweight is: 139012000
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167175808
+tweight is: 138507136
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167680384
+tweight is: 138039296
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168148480
+tweight is: 137804384
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168383264
+tweight is: 137554048
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168633856
+tweight is: 137962624
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168225056
+tweight is: 139194208
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-166993568
+tweight is: 138210720
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167977024
+tweight is: 138551904
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167635968
+tweight is: 138164928
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168022880
+tweight is: 137909344
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168278240
+tweight is: 137271936
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168915744
+tweight is: 138174144
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168013888
+tweight is: 138321376
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167866720
+tweight is: 138876128
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167311616
+tweight is: 137718400
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168469440
+tweight is: 138650208
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167537600
+tweight is: 138246080
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167941408
+tweight is: 138171104
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168016640
+tweight is: 138091264
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168096704
+tweight is: 138439200
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167748736
+tweight is: 138391888
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167795904
+tweight is: 139124352
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167063552
+tweight is: 138184096
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168003712
+tweight is: 138593888
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167593760
+tweight is: 138650272
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167537536
+tweight is: 137863136
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168324736
+tweight is: 138002080
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168185664
+tweight is: 139299936
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-166888096
+tweight is: 138931072
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167256512
+tweight is: 138598368
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167589472
+tweight is: 138794304
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167393408
+tweight is: 138753792
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167433888
+tweight is: 138736672
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167451328
+tweight is: 139484416
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-166703584
+tweight is: 138222848
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167964896
+tweight is: 138680032
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167507744
+tweight is: 138510752
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167677056
+tweight is: 138301248
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167886752
+tweight is: 137457952
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168729856
+tweight is: 138156544
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168031328
+tweight is: 138034912
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168152576
+tweight is: 138368416
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167819616
+tweight is: 137567296
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168620160
+tweight is: 138316928
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167870912
+tweight is: 138923520
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167264224
+tweight is: 138277248
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167910592
+tweight is: 138174432
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168013472
+tweight is: 138826752
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167360800
+tweight is: 138020608
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168167008
+tweight is: 138402048
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167785728
+tweight is: 138381664
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167806080
+tweight is: 137802336
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168385568
+tweight is: 138297664
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167890272
+tweight is: 138420704
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167767136
+tweight is: 138728096
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167459488
+tweight is: 137415904
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168771904
+tweight is: 138541792
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167645984
+tweight is: 137969088
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168218944
+tweight is: 138851552
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167336192
+tweight is: 138859968
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167327840
+tweight is: 138597344
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167590624
+tweight is: 137767040
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168420512
+tweight is: 137986400
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168201344
+tweight is: 139074048
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167113664
+tweight is: 138311584
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167876192
+tweight is: 138091296
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168096608
+tweight is: 138507648
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167680352
+tweight is: 138040256
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168147584
+tweight is: 138962304
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167225600
+tweight is: 138845024
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167342592
+tweight is: 138055488
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168132448
+tweight is: 138707008
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167480864
+tweight is: 138660096
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167527648
+tweight is: 138820960
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167366592
+tweight is: 138807584
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167380256
+tweight is: 138320384
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167867424
+tweight is: 138998688
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167189184
+tweight is: 139131776
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167055968
+tweight is: 138252288
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167935680
+tweight is: 138667168
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167520688
+tweight is: 138519552
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167668192
+tweight is: 138522752
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167665184
+tweight is: 138599808
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167587840
+tweight is: 138105536
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168082432
+tweight is: 138041856
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168145888
+tweight is: 137746560
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168441216
+tweight is: 138024128
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168163648
+tweight is: 138718720
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167469056
+tweight is: 138401760
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167785920
+tweight is: 138697088
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167490912
+tweight is: 137775232
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168412544
+tweight is: 138840192
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167347552
+tweight is: 138255712
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-167932160
+tweight is: 138087648
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168100000
+tweight is: 137897056
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-168290624
+herewhat happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:306188
+service size6000
+graph size:6032
+node:1000
+task:6000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:200
+Lagrange parrel searching..............
+tweight is: 7.77185e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28469e+08
+tweight is: 7.77971e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28391e+08
+tweight is: 7.82892e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27899e+08
+tweight is: 7.88056e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27382e+08
+tweight is: 7.85464e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27641e+08
+tweight is: 7.83895e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27798e+08
+tweight is: 7.84556e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27732e+08
+tweight is: 7.81876e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28001e+08
+tweight is: 7.85141e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27674e+08
+tweight is: 7.85443e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27643e+08
+tweight is: 7.813e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28058e+08
+tweight is: 7.8573e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27615e+08
+tweight is: 7.79379e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.2825e+08
+tweight is: 7.83847e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27803e+08
+tweight is: 7.83957e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27792e+08
+tweight is: 7.81193e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28069e+08
+tweight is: 7.92464e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.26942e+08
+tweight is: 7.84669e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27721e+08
+tweight is: 7.73612e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28827e+08
+tweight is: 7.79569e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28231e+08
+tweight is: 7.82213e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27966e+08
+tweight is: 7.84065e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27781e+08
+tweight is: 7.8049e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28139e+08
+tweight is: 7.74238e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28764e+08
+tweight is: 7.93782e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.2681e+08
+tweight is: 7.9348e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.2684e+08
+tweight is: 7.89484e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.2724e+08
+tweight is: 7.78822e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28306e+08
+tweight is: 7.82909e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27897e+08
+tweight is: 7.81714e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28017e+08
+tweight is: 7.84038e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27784e+08
+tweight is: 7.90185e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27169e+08
+tweight is: 7.83282e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.2786e+08
+tweight is: 7.82082e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.2798e+08
+tweight is: 7.86127e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27575e+08
+tweight is: 7.85923e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27595e+08
+tweight is: 7.90488e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27139e+08
+tweight is: 7.88037e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27384e+08
+tweight is: 7.89322e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27256e+08
+tweight is: 7.89647e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27223e+08
+tweight is: 7.83739e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27814e+08
+tweight is: 7.85097e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27678e+08
+tweight is: 7.89737e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27214e+08
+tweight is: 7.82628e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27925e+08
+tweight is: 7.75422e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28645e+08
+tweight is: 7.79641e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28224e+08
+tweight is: 7.91958e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.26992e+08
+tweight is: 7.74594e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28728e+08
+tweight is: 7.79745e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28214e+08
+tweight is: 7.83462e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27841e+08
+tweight is: 7.77542e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28434e+08
+tweight is: 7.83637e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27824e+08
+tweight is: 7.84131e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27774e+08
+tweight is: 7.79943e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28194e+08
+tweight is: 7.86171e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27571e+08
+tweight is: 7.87244e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27463e+08
+tweight is: 7.9136e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27052e+08
+tweight is: 7.90649e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27123e+08
+tweight is: 7.85816e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27606e+08
+tweight is: 7.83223e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27866e+08
+tweight is: 7.79204e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28268e+08
+tweight is: 7.84547e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27733e+08
+tweight is: 7.78679e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.2832e+08
+tweight is: 7.74434e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28744e+08
+tweight is: 7.85085e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27679e+08
+tweight is: 7.76622e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28526e+08
+tweight is: 7.86839e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27504e+08
+tweight is: 7.78532e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28335e+08
+tweight is: 7.8098e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.2809e+08
+tweight is: 7.74961e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28691e+08
+tweight is: 7.7721e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28467e+08
+tweight is: 7.83053e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27882e+08
+tweight is: 7.88991e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27289e+08
+tweight is: 7.81344e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28054e+08
+tweight is: 7.84081e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.2778e+08
+tweight is: 7.82383e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27949e+08
+tweight is: 7.85641e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27624e+08
+tweight is: 7.82768e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27911e+08
+tweight is: 7.72449e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28943e+08
+tweight is: 7.95821e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.26606e+08
+tweight is: 7.85478e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.2764e+08
+tweight is: 7.7404e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28784e+08
+tweight is: 7.78226e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28365e+08
+tweight is: 7.84465e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27742e+08
+tweight is: 7.80261e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28162e+08
+tweight is: 7.94792e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.26709e+08
+tweight is: 7.80324e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28156e+08
+tweight is: 7.74266e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28762e+08
+tweight is: 7.83184e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27869e+08
+tweight is: 7.90162e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27172e+08
+tweight is: 7.85244e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27663e+08
+tweight is: 7.88737e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27314e+08
+tweight is: 7.84573e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.2773e+08
+tweight is: 7.7999e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28189e+08
+tweight is: 7.79706e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28217e+08
+tweight is: 7.8202e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27986e+08
+tweight is: 7.8068e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.2812e+08
+tweight is: 7.84155e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27773e+08
+tweight is: 7.79787e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.28209e+08
+tweight is: 7.89232e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.27265e+08
+hereLagrange serial searching..............
+tweight is: 78917144
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227270384
+tweight is: 77888704
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228299072
+tweight is: 78733048
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227454752
+tweight is: 77234840
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228952832
+tweight is: 77923608
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228264064
+tweight is: 77801064
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228386592
+tweight is: 78013888
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228174272
+tweight is: 78281720
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227906112
+tweight is: 77289096
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228898688
+tweight is: 77597368
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228590576
+tweight is: 77801864
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228386048
+tweight is: 77930184
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228257648
+tweight is: 78276272
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227911456
+tweight is: 78402760
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227785184
+tweight is: 78288672
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227898784
+tweight is: 78214688
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227973248
+tweight is: 78789144
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227398816
+tweight is: 78403944
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227783552
+tweight is: 77743288
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228444736
+tweight is: 78598776
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227589216
+tweight is: 77335464
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228852416
+tweight is: 77427320
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228760608
+tweight is: 78964352
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227223328
+tweight is: 78041856
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228145856
+tweight is: 78469416
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227718368
+tweight is: 79062088
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227125696
+tweight is: 78615992
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227571872
+tweight is: 78031376
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228156480
+tweight is: 77971760
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228216160
+tweight is: 77718632
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228468928
+tweight is: 77932840
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228254576
+tweight is: 78043768
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228144064
+tweight is: 77747896
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228439808
+tweight is: 77738960
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228448640
+tweight is: 77809272
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228378208
+tweight is: 78150224
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228037344
+tweight is: 78453896
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227733824
+tweight is: 77152448
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-229035264
+tweight is: 78146888
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228040896
+tweight is: 78124952
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228062832
+tweight is: 78327008
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227860896
+tweight is: 78156456
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228031200
+tweight is: 76966424
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-229220864
+tweight is: 78009608
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228178240
+tweight is: 77880928
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228307056
+tweight is: 77542376
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228644992
+tweight is: 77550872
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228636832
+tweight is: 77381840
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228805920
+tweight is: 77416848
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228771104
+tweight is: 78331160
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227856800
+tweight is: 77433592
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228754304
+tweight is: 77504552
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228683296
+tweight is: 77454536
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228733088
+tweight is: 78209112
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227978592
+tweight is: 77402240
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228785440
+tweight is: 78393656
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227794112
+tweight is: 77632600
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228554912
+tweight is: 77051512
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-229136288
+tweight is: 78577544
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227610224
+tweight is: 77922776
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228264992
+tweight is: 77647896
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228539936
+tweight is: 77887392
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228300288
+tweight is: 78103128
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228084448
+tweight is: 77936936
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228250848
+tweight is: 77738432
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228449120
+tweight is: 78077896
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228109888
+tweight is: 77430736
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228756992
+tweight is: 77730504
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228457136
+tweight is: 77787640
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228400352
+tweight is: 78465616
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227722208
+tweight is: 78513928
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227673888
+tweight is: 77915664
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228271920
+tweight is: 77480592
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228707104
+tweight is: 77360256
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228827424
+tweight is: 78663352
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227524384
+tweight is: 77994904
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228193120
+tweight is: 78632552
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227555296
+tweight is: 77163032
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-229024768
+tweight is: 77863032
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228324864
+tweight is: 78352232
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227835680
+tweight is: 77916656
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228270944
+tweight is: 78404040
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227783552
+tweight is: 78549408
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227638176
+tweight is: 79280080
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-226907472
+tweight is: 77081656
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-229106016
+tweight is: 78689112
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227498784
+tweight is: 78251600
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227935808
+tweight is: 77567464
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228620352
+tweight is: 77400344
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228787424
+tweight is: 77862008
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228325824
+tweight is: 77995208
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228192880
+tweight is: 78108152
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228079808
+tweight is: 78804968
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227382528
+tweight is: 78282104
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227905408
+tweight is: 78343480
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227844064
+tweight is: 78682024
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-227505584
+tweight is: 78036000
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228151744
+tweight is: 77750200
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228437424
+tweight is: 78020744
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228167424
+tweight is: 77800008
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-228387776
+herewhat happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:306188
+service size6000
+graph size:6032
+node:1000
+task:6000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:250
+Lagrange parrel searching..............
+tweight is: 2.47911e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.81397e+08
+tweight is: 2.65175e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.7967e+08
+tweight is: 2.54183e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.8077e+08
+tweight is: 2.674e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79448e+08
+tweight is: 2.55355e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80652e+08
+tweight is: 2.65678e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.7962e+08
+tweight is: 2.56907e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80497e+08
+tweight is: 2.6005e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80183e+08
+tweight is: 2.51893e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80999e+08
+tweight is: 2.65915e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79596e+08
+tweight is: 2.52352e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80952e+08
+tweight is: 2.66647e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79523e+08
+tweight is: 2.55029e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80685e+08
+tweight is: 2.54602e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80727e+08
+tweight is: 2.71386e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79048e+08
+tweight is: 2.52427e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80945e+08
+tweight is: 2.56555e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80532e+08
+tweight is: 2.5177e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.81011e+08
+tweight is: 2.53712e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80817e+08
+tweight is: 2.57623e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80425e+08
+tweight is: 2.54989e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80689e+08
+tweight is: 2.5406e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80782e+08
+tweight is: 2.55541e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80634e+08
+tweight is: 2.60063e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80181e+08
+tweight is: 2.64636e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79724e+08
+tweight is: 2.58131e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80374e+08
+tweight is: 2.60136e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80174e+08
+tweight is: 2.5605e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80583e+08
+tweight is: 2.54031e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80785e+08
+tweight is: 2.51918e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80996e+08
+tweight is: 2.66491e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79538e+08
+tweight is: 2.57338e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80454e+08
+tweight is: 2.53424e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80845e+08
+tweight is: 2.55906e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80597e+08
+tweight is: 2.61868e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80001e+08
+tweight is: 2.4899e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.81289e+08
+tweight is: 2.65611e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79627e+08
+tweight is: 2.60022e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80186e+08
+tweight is: 2.59964e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80191e+08
+tweight is: 2.59977e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.8019e+08
+tweight is: 2.52025e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80985e+08
+tweight is: 2.63767e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79811e+08
+tweight is: 2.57583e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.8043e+08
+tweight is: 2.54521e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80735e+08
+tweight is: 2.63241e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79863e+08
+tweight is: 2.56544e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80533e+08
+tweight is: 2.60889e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80099e+08
+tweight is: 2.59896e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80198e+08
+tweight is: 2.66329e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79555e+08
+tweight is: 2.49603e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.81228e+08
+tweight is: 2.62078e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.7998e+08
+tweight is: 2.58184e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80369e+08
+tweight is: 2.64766e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79711e+08
+tweight is: 2.57495e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80438e+08
+tweight is: 2.56154e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80572e+08
+tweight is: 2.58451e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80343e+08
+tweight is: 2.65368e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79651e+08
+tweight is: 2.60216e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80166e+08
+tweight is: 2.57669e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80421e+08
+tweight is: 2.59788e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80209e+08
+tweight is: 2.58789e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80309e+08
+tweight is: 2.70051e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79182e+08
+tweight is: 2.62761e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79912e+08
+tweight is: 2.58271e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80361e+08
+tweight is: 2.57621e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80425e+08
+tweight is: 2.60363e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80151e+08
+tweight is: 2.66875e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.795e+08
+tweight is: 2.78475e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.7834e+08
+tweight is: 2.64522e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79735e+08
+tweight is: 2.55051e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80683e+08
+tweight is: 2.64421e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79746e+08
+tweight is: 2.54224e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80765e+08
+tweight is: 2.57604e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80427e+08
+tweight is: 2.63847e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79803e+08
+tweight is: 2.54427e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80745e+08
+tweight is: 2.56754e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80512e+08
+tweight is: 2.70753e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79112e+08
+tweight is: 2.59228e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80265e+08
+tweight is: 2.6006e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80182e+08
+tweight is: 2.62827e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79905e+08
+tweight is: 2.63197e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79868e+08
+tweight is: 2.6594e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79594e+08
+tweight is: 2.62897e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79898e+08
+tweight is: 2.63706e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79817e+08
+tweight is: 2.65421e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79646e+08
+tweight is: 2.60277e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.8016e+08
+tweight is: 2.61695e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80018e+08
+tweight is: 2.68644e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79323e+08
+tweight is: 2.61803e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80007e+08
+tweight is: 2.54316e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80756e+08
+tweight is: 2.6039e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80148e+08
+tweight is: 2.66548e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79533e+08
+tweight is: 2.57425e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80445e+08
+tweight is: 2.65737e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79614e+08
+tweight is: 2.57205e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80467e+08
+tweight is: 2.57656e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80422e+08
+tweight is: 2.54822e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80705e+08
+tweight is: 2.50785e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.81109e+08
+tweight is: 2.61934e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.79994e+08
+tweight is: 2.61216e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.80066e+08
+hereLagrange serial searching..............
+tweight is: 26142310
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280045280
+tweight is: 25753446
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280434080
+tweight is: 25750312
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280437120
+tweight is: 26350664
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279836960
+tweight is: 26327650
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279859968
+tweight is: 26920294
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279267328
+tweight is: 25905566
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280282432
+tweight is: 25394850
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280792992
+tweight is: 26755380
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279432160
+tweight is: 26107522
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280080128
+tweight is: 26114780
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280073024
+tweight is: 25346506
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280841248
+tweight is: 25785806
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280401920
+tweight is: 25962704
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280225056
+tweight is: 25777712
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280410272
+tweight is: 26153942
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280033920
+tweight is: 25119936
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-281067744
+tweight is: 25598416
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280589280
+tweight is: 25873042
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280314464
+tweight is: 26505588
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279682368
+tweight is: 25778888
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280408576
+tweight is: 25740928
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280446464
+tweight is: 26660088
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279527616
+tweight is: 25707064
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280480128
+tweight is: 25574028
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280613760
+tweight is: 26416790
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279771232
+tweight is: 25991920
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280196064
+tweight is: 26353064
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279834688
+tweight is: 26253740
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279934144
+tweight is: 24682226
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-281505440
+tweight is: 25047142
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-281140640
+tweight is: 25892354
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280295456
+tweight is: 25805276
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280382272
+tweight is: 25907028
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280280384
+tweight is: 25622806
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280565216
+tweight is: 25488662
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280699232
+tweight is: 25323242
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280864672
+tweight is: 25714444
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280472992
+tweight is: 26632718
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279555104
+tweight is: 26118254
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280069248
+tweight is: 25874862
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280313056
+tweight is: 25892522
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280295072
+tweight is: 26824884
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279362944
+tweight is: 25897462
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280290272
+tweight is: 26620810
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279566880
+tweight is: 26298534
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279889088
+tweight is: 26353568
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279834272
+tweight is: 25819048
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280368704
+tweight is: 26176302
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280011392
+tweight is: 24974192
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-281213696
+tweight is: 25712474
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280475616
+tweight is: 26369424
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279818400
+tweight is: 25347896
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280839968
+tweight is: 25793868
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280394272
+tweight is: 26532864
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279654336
+tweight is: 25671622
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280515936
+tweight is: 25442962
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280744800
+tweight is: 25883158
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280304448
+tweight is: 25028160
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-281159488
+tweight is: 27219818
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-278967936
+tweight is: 26533284
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279654240
+tweight is: 25226170
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280961568
+tweight is: 26829826
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279357792
+tweight is: 25759322
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280428288
+tweight is: 25327032
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280861120
+tweight is: 26356948
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279830912
+tweight is: 26018078
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280169792
+tweight is: 25126634
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-281061088
+tweight is: 25757392
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280430368
+tweight is: 25483330
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280704288
+tweight is: 26226970
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279960736
+tweight is: 25702880
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280484736
+tweight is: 25820122
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280367328
+tweight is: 25778844
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280408608
+tweight is: 25814124
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280373760
+tweight is: 25778516
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280409152
+tweight is: 26394586
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279793248
+tweight is: 26175690
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280011968
+tweight is: 25426332
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280761408
+tweight is: 26386972
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279800960
+tweight is: 25729594
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280457856
+tweight is: 26115202
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280072544
+tweight is: 25348328
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280839520
+tweight is: 25471840
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280715712
+tweight is: 25737688
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280450048
+tweight is: 25449668
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280737952
+tweight is: 24797208
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-281390272
+tweight is: 25971344
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280216224
+tweight is: 26288018
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279899648
+tweight is: 25323298
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280864128
+tweight is: 24857850
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-281329760
+tweight is: 25386058
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280801536
+tweight is: 26530640
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279657312
+tweight is: 25812004
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280375552
+tweight is: 26591730
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279596032
+tweight is: 25327688
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280860000
+tweight is: 26374774
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-279812832
+tweight is: 26102602
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280084608
+tweight is: 25357612
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280830208
+tweight is: 25419054
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-280768640
+herewhat happened
+here../result/1000/0/
+ssadsa../result/1000/0/service.txttotal demand:306188
+service size6000
+graph size:6032
+node:1000
+task:6000
+edge:6032
+type:ER
+GRPHTYPE:1
+capacity:300
+Lagrange parrel searching..............
+tweight is: 6.99941e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99188e+08
+tweight is: 6.69229e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99495e+08
+tweight is: 6.75844e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99429e+08
+tweight is: 6.54366e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99644e+08
+tweight is: 6.52681e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99661e+08
+tweight is: 6.39917e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99788e+08
+tweight is: 6.73068e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99457e+08
+tweight is: 6.4583e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99729e+08
+tweight is: 6.5884e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99599e+08
+tweight is: 6.21463e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99973e+08
+tweight is: 6.60329e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99584e+08
+tweight is: 6.46633e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99721e+08
+tweight is: 6.64131e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99546e+08
+tweight is: 6.68685e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.995e+08
+tweight is: 6.69144e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99496e+08
+tweight is: 6.27684e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9991e+08
+tweight is: 6.39292e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99795e+08
+tweight is: 6.82686e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99361e+08
+tweight is: 6.60761e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9958e+08
+tweight is: 6.65022e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99537e+08
+tweight is: 6.12977e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.00058e+08
+tweight is: 6.56351e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99624e+08
+tweight is: 7.04952e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99138e+08
+tweight is: 6.50955e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99678e+08
+tweight is: 6.30323e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99884e+08
+tweight is: 6.1752e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.00012e+08
+tweight is: 6.15452e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.00033e+08
+tweight is: 6.42057e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99767e+08
+tweight is: 6.57184e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99615e+08
+tweight is: 6.90064e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99287e+08
+tweight is: 6.02126e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.00166e+08
+tweight is: 6.38444e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99803e+08
+tweight is: 6.9568e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9923e+08
+tweight is: 6.66078e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99527e+08
+tweight is: 6.47726e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9971e+08
+tweight is: 6.29528e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99892e+08
+tweight is: 6.46022e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99727e+08
+tweight is: 6.6401e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99548e+08
+tweight is: 6.55883e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99629e+08
+tweight is: 6.63024e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99557e+08
+tweight is: 6.67382e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99514e+08
+tweight is: 6.56858e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99619e+08
+tweight is: 6.78054e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99407e+08
+tweight is: 6.75157e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99436e+08
+tweight is: 6.55977e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99628e+08
+tweight is: 6.78543e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99402e+08
+tweight is: 6.49057e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99697e+08
+tweight is: 6.31041e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99877e+08
+tweight is: 6.58698e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.996e+08
+tweight is: 6.2688e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99919e+08
+tweight is: 6.48796e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99699e+08
+tweight is: 6.58412e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99603e+08
+tweight is: 6.65659e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99531e+08
+tweight is: 6.71903e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99468e+08
+tweight is: 6.1582e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.00029e+08
+tweight is: 6.7448e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99442e+08
+tweight is: 6.6635e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99524e+08
+tweight is: 6.99911e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99189e+08
+tweight is: 6.56541e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99622e+08
+tweight is: 6.24524e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99942e+08
+tweight is: 6.51387e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99673e+08
+tweight is: 6.47664e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99711e+08
+tweight is: 6.73906e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99448e+08
+tweight is: 6.52824e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99659e+08
+tweight is: 6.63919e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99548e+08
+tweight is: 6.34125e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99846e+08
+tweight is: 6.90218e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99285e+08
+tweight is: 6.85655e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99331e+08
+tweight is: 6.3681e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9982e+08
+tweight is: 6.8125e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99375e+08
+tweight is: 6.5617e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99626e+08
+tweight is: 6.6007e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99587e+08
+tweight is: 6.46447e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99723e+08
+tweight is: 6.55294e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99634e+08
+tweight is: 6.42949e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99758e+08
+tweight is: 6.50047e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99687e+08
+tweight is: 6.60669e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99581e+08
+tweight is: 6.50889e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99678e+08
+tweight is: 6.58536e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99602e+08
+tweight is: 6.76831e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99419e+08
+tweight is: 6.59611e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99591e+08
+tweight is: 6.83228e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99355e+08
+tweight is: 6.72603e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99462e+08
+tweight is: 6.48389e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99704e+08
+tweight is: 6.29246e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99895e+08
+tweight is: 6.79708e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9939e+08
+tweight is: 6.72537e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99462e+08
+tweight is: 6.50462e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99682e+08
+tweight is: 6.75774e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99429e+08
+tweight is: 6.40133e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99786e+08
+tweight is: 6.39115e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99796e+08
+tweight is: 6.66743e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9952e+08
+tweight is: 6.68156e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99506e+08
+tweight is: 6.33905e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99848e+08
+tweight is: 6.47481e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99713e+08
+tweight is: 6.5978e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99589e+08
+tweight is: 6.31149e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99876e+08
+tweight is: 6.81005e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99377e+08
+tweight is: 6.61143e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99576e+08
+tweight is: 6.29577e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.99892e+08
+hereLagrange serial searching..............
+tweight is: 6412527
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299775200
+tweight is: 6253957
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299934016
+tweight is: 6222361
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299964704
+tweight is: 6663766
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299524000
+tweight is: 6560789
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299627168
+tweight is: 6613204
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299574816
+tweight is: 6292340
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299895520
+tweight is: 6339933
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299847808
+tweight is: 6666081
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299521856
+tweight is: 6382380
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299805376
+tweight is: 6538833
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299648768
+tweight is: 6299852
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299887744
+tweight is: 6405610
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299782240
+tweight is: 6612807
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299575040
+tweight is: 6367592
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299820224
+tweight is: 6938279
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299249440
+tweight is: 6446085
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299741760
+tweight is: 6477433
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299710432
+tweight is: 6806216
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299381504
+tweight is: 6418528
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299769280
+tweight is: 6255908
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299931936
+tweight is: 6612550
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299574912
+tweight is: 6466129
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299721824
+tweight is: 6664729
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299523168
+tweight is: 6606018
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299581888
+tweight is: 6426742
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299761312
+tweight is: 6690957
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299496096
+tweight is: 6425269
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299762592
+tweight is: 6852455
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299335232
+tweight is: 6346874
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299841120
+tweight is: 6343601
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299844128
+tweight is: 6496157
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299691552
+tweight is: 6348861
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299838816
+tweight is: 6639833
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299548096
+tweight is: 6428079
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299759264
+tweight is: 6569187
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299618656
+tweight is: 6561470
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299626304
+tweight is: 6467752
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299719712
+tweight is: 6536131
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299651776
+tweight is: 6579965
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299607584
+tweight is: 6407946
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299779616
+tweight is: 6475227
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299712544
+tweight is: 6515570
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299672160
+tweight is: 6451336
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299736384
+tweight is: 6323082
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299864576
+tweight is: 6775980
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299411552
+tweight is: 7004571
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299183136
+tweight is: 6753260
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299434944
+tweight is: 6222282
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299965376
+tweight is: 6520238
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299667616
+tweight is: 6470933
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299716704
+tweight is: 6604387
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299583264
+tweight is: 6411466
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299776352
+tweight is: 6588641
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299599296
+tweight is: 6536499
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299651296
+tweight is: 6640777
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299547072
+tweight is: 6388948
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299798656
+tweight is: 6223687
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299963968
+tweight is: 6401288
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299786112
+tweight is: 6594053
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299593824
+tweight is: 6605550
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299581888
+tweight is: 6482867
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299704896
+tweight is: 6347023
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299840672
+tweight is: 6586981
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299600960
+tweight is: 6447610
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299739808
+tweight is: 6193996
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299994144
+tweight is: 6754051
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299433696
+tweight is: 6628432
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299559072
+tweight is: 6437681
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299750080
+tweight is: 6672034
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299515552
+tweight is: 6453464
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299734496
+tweight is: 6367461
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299820416
+tweight is: 6612439
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299575392
+tweight is: 6563513
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299624384
+tweight is: 6443078
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299744864
+tweight is: 6746089
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299441472
+tweight is: 6304403
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299883296
+tweight is: 6219794
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299967808
+tweight is: 6942832
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299244992
+tweight is: 6673750
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299513888
+tweight is: 6846450
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299341184
+tweight is: 6462792
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299725056
+tweight is: 6759666
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299428160
+tweight is: 6463092
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299724512
+tweight is: 6467084
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299720576
+tweight is: 6412813
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299775136
+tweight is: 6516780
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299670880
+tweight is: 6602971
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299584896
+tweight is: 6340046
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299847776
+tweight is: 6396732
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299790912
+tweight is: 6412053
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299775680
+tweight is: 6562853
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299624832
+tweight is: 6543371
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299644192
+tweight is: 6277738
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299910016
+tweight is: 6485342
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299702816
+tweight is: 6266551
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299921248
+tweight is: 6439317
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299748768
+tweight is: 6406166
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299781472
+tweight is: 6447347
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299740672
+tweight is: 6508211
+in check
+check corrected!!!
+lowbound is:306188160
+addinpart is:-299679520
+herewhat happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:306188
+service size6000
+graph size:5980
+node:1000
+task:6000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:150
+Lagrange parrel searching..............
+tweight is: 1.20517e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85671e+08
+tweight is: 1.20296e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85892e+08
+tweight is: 1.20697e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85491e+08
+tweight is: 1.20437e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85751e+08
+tweight is: 1.20584e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85604e+08
+tweight is: 1.20778e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.8541e+08
+tweight is: 1.20301e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85887e+08
+tweight is: 1.21456e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84732e+08
+tweight is: 1.20407e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85781e+08
+tweight is: 1.20756e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85432e+08
+tweight is: 1.20797e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85391e+08
+tweight is: 1.20947e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85241e+08
+tweight is: 1.20626e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85562e+08
+tweight is: 1.20984e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85204e+08
+tweight is: 1.21426e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84762e+08
+tweight is: 1.20431e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85757e+08
+tweight is: 1.20955e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85233e+08
+tweight is: 1.21267e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84921e+08
+tweight is: 1.20641e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85547e+08
+tweight is: 1.20883e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85305e+08
+tweight is: 1.20963e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85225e+08
+tweight is: 1.20764e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85424e+08
+tweight is: 1.20409e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85779e+08
+tweight is: 1.196e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.86588e+08
+tweight is: 1.21003e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85185e+08
+tweight is: 1.20381e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85807e+08
+tweight is: 1.20353e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85834e+08
+tweight is: 1.2025e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85938e+08
+tweight is: 1.21234e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84954e+08
+tweight is: 1.20812e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85375e+08
+tweight is: 1.21194e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84994e+08
+tweight is: 1.2119e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84998e+08
+tweight is: 1.21109e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85079e+08
+tweight is: 1.19671e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.86517e+08
+tweight is: 1.20481e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85707e+08
+tweight is: 1.19825e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.86363e+08
+tweight is: 1.198e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.86388e+08
+tweight is: 1.20452e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85737e+08
+tweight is: 1.2029e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85898e+08
+tweight is: 1.20185e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.86003e+08
+tweight is: 1.20784e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85403e+08
+tweight is: 1.2083e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85358e+08
+tweight is: 1.20628e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.8556e+08
+tweight is: 1.20065e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.86123e+08
+tweight is: 1.21251e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84937e+08
+tweight is: 1.21038e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.8515e+08
+tweight is: 1.20143e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.86045e+08
+tweight is: 1.2035e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85838e+08
+tweight is: 1.20101e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.86087e+08
+tweight is: 1.20784e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85404e+08
+tweight is: 1.21241e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84947e+08
+tweight is: 1.21087e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85101e+08
+tweight is: 1.20086e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.86103e+08
+tweight is: 1.20729e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85459e+08
+tweight is: 1.20913e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85275e+08
+tweight is: 1.21287e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84901e+08
+tweight is: 1.20839e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85349e+08
+tweight is: 1.20059e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.86129e+08
+tweight is: 1.20248e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.8594e+08
+tweight is: 1.20462e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85727e+08
+tweight is: 1.20402e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85786e+08
+tweight is: 1.21152e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85035e+08
+tweight is: 1.21117e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85071e+08
+tweight is: 1.21611e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84577e+08
+tweight is: 1.21178e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.8501e+08
+tweight is: 1.2039e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85798e+08
+tweight is: 1.2124e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84948e+08
+tweight is: 1.2058e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85608e+08
+tweight is: 1.19965e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.86223e+08
+tweight is: 1.21273e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84915e+08
+tweight is: 1.20766e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85422e+08
+tweight is: 1.20156e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.86032e+08
+tweight is: 1.20045e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.86143e+08
+tweight is: 1.21494e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84694e+08
+tweight is: 1.20906e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85282e+08
+tweight is: 1.20241e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85947e+08
+tweight is: 1.20261e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85927e+08
+tweight is: 1.20783e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85405e+08
+tweight is: 1.21456e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84732e+08
+tweight is: 1.21139e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85049e+08
+tweight is: 1.20888e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.853e+08
+tweight is: 1.20647e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85541e+08
+tweight is: 1.21332e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84856e+08
+tweight is: 1.21348e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.8484e+08
+tweight is: 1.2056e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85628e+08
+tweight is: 1.20699e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85489e+08
+tweight is: 1.21249e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84939e+08
+tweight is: 1.20473e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85715e+08
+tweight is: 1.20761e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85427e+08
+tweight is: 1.21098e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.8509e+08
+tweight is: 1.19997e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.86191e+08
+tweight is: 1.20441e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85747e+08
+tweight is: 1.21461e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84726e+08
+tweight is: 1.20755e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85433e+08
+tweight is: 1.20981e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85207e+08
+tweight is: 1.21252e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.84936e+08
+tweight is: 1.19718e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.8647e+08
+tweight is: 1.20888e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.853e+08
+tweight is: 1.21179e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85009e+08
+tweight is: 1.2039e+08
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-1.85797e+08
+hereLagrange serial searching..............
+tweight is: 120043848
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-186144416
+tweight is: 120211976
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185976032
+tweight is: 121177792
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185010432
+tweight is: 120941440
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185246624
+tweight is: 120427728
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185760384
+tweight is: 120844040
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185343936
+tweight is: 121451080
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184736992
+tweight is: 121010152
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185177952
+tweight is: 120062400
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-186125600
+tweight is: 120774440
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185413472
+tweight is: 121504616
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184683776
+tweight is: 121399992
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184787936
+tweight is: 121560776
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184627616
+tweight is: 121227768
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184960160
+tweight is: 120912952
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185275264
+tweight is: 120282344
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185905920
+tweight is: 121385480
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184802464
+tweight is: 120219928
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185968096
+tweight is: 121317808
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184870240
+tweight is: 120549448
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185638240
+tweight is: 120736104
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185451584
+tweight is: 119751272
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-186436576
+tweight is: 120502488
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185685504
+tweight is: 120583496
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185604320
+tweight is: 121459672
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184728096
+tweight is: 121253304
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184935008
+tweight is: 121380720
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184807584
+tweight is: 120596472
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185591360
+tweight is: 121872824
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184315136
+tweight is: 120873816
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185314336
+tweight is: 120447544
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185740544
+tweight is: 120530000
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185658080
+tweight is: 120714520
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185473184
+tweight is: 120546176
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185642016
+tweight is: 120944864
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185243264
+tweight is: 120623864
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185564224
+tweight is: 121196584
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184991264
+tweight is: 121356744
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184831392
+tweight is: 120764232
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185423680
+tweight is: 119719752
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-186468256
+tweight is: 121320424
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184867712
+tweight is: 120431896
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185755968
+tweight is: 120603528
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185584512
+tweight is: 119911608
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-186276416
+tweight is: 121091840
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185096096
+tweight is: 120528320
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185659584
+tweight is: 121093432
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185094656
+tweight is: 121048056
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185139648
+tweight is: 120935224
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185252800
+tweight is: 120588032
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185600096
+tweight is: 120978672
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185209152
+tweight is: 120486696
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185701536
+tweight is: 120551728
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185636192
+tweight is: 121254824
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184933152
+tweight is: 120731240
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185456736
+tweight is: 120041304
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-186146912
+tweight is: 120813992
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185374016
+tweight is: 120663608
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185524320
+tweight is: 120743560
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185444576
+tweight is: 121247064
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184941152
+tweight is: 120976632
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185211296
+tweight is: 121583432
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184604416
+tweight is: 120674456
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185513664
+tweight is: 121573216
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184614592
+tweight is: 119827672
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-186360320
+tweight is: 120647848
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185540352
+tweight is: 120966896
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185221120
+tweight is: 120959400
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185228256
+tweight is: 121585464
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184602368
+tweight is: 120970968
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185216960
+tweight is: 119909400
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-186278528
+tweight is: 121615144
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184572640
+tweight is: 120364072
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185823776
+tweight is: 121168456
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185019648
+tweight is: 120915752
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185272192
+tweight is: 121121880
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185065920
+tweight is: 121801144
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184386944
+tweight is: 120660120
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185528032
+tweight is: 121078608
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185109440
+tweight is: 121199608
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184988256
+tweight is: 120575720
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185612640
+tweight is: 121361608
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184826528
+tweight is: 121069784
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185118304
+tweight is: 120724848
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185463136
+tweight is: 121032184
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185155968
+tweight is: 121040952
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185147008
+tweight is: 121654192
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184533632
+tweight is: 120403128
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185784864
+tweight is: 121159744
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185028256
+tweight is: 120662200
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185525984
+tweight is: 121172432
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185015616
+tweight is: 121262200
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184926016
+tweight is: 121198472
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184989696
+tweight is: 120526384
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185661344
+tweight is: 120972568
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185215424
+tweight is: 120232152
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185955936
+tweight is: 121177544
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185010336
+tweight is: 121256040
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-184932160
+tweight is: 121179880
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-185008032
+tweight is: 120138296
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-186049952
+herewhat happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:306188
+service size6000
+graph size:5980
+node:1000
+task:6000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:200
+Lagrange parrel searching..............
+tweight is: 5.78268e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48361e+08
+tweight is: 5.67507e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49437e+08
+tweight is: 5.64615e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49726e+08
+tweight is: 5.64724e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49715e+08
+tweight is: 5.81801e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48008e+08
+tweight is: 5.70849e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49103e+08
+tweight is: 5.68448e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49343e+08
+tweight is: 5.6908e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.4928e+08
+tweight is: 5.69582e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.4923e+08
+tweight is: 5.63548e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49833e+08
+tweight is: 5.64292e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49758e+08
+tweight is: 5.6872e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49316e+08
+tweight is: 5.59144e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50273e+08
+tweight is: 5.65245e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49663e+08
+tweight is: 5.59001e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50287e+08
+tweight is: 5.58977e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.5029e+08
+tweight is: 5.68166e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49371e+08
+tweight is: 5.80837e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48104e+08
+tweight is: 5.73868e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48801e+08
+tweight is: 5.66779e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.4951e+08
+tweight is: 5.63446e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49843e+08
+tweight is: 5.63118e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49876e+08
+tweight is: 5.68031e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49385e+08
+tweight is: 5.74562e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48732e+08
+tweight is: 5.58866e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50301e+08
+tweight is: 5.67617e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49426e+08
+tweight is: 5.53503e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50837e+08
+tweight is: 5.65949e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49593e+08
+tweight is: 5.6596e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49592e+08
+tweight is: 5.73122e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48876e+08
+tweight is: 5.57659e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50422e+08
+tweight is: 5.72405e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48947e+08
+tweight is: 5.71182e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49069e+08
+tweight is: 5.6306e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49882e+08
+tweight is: 5.59657e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50222e+08
+tweight is: 5.66815e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49506e+08
+tweight is: 5.71952e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48993e+08
+tweight is: 5.74229e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48765e+08
+tweight is: 5.5881e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50307e+08
+tweight is: 5.63167e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49871e+08
+tweight is: 5.73135e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48874e+08
+tweight is: 5.68779e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.4931e+08
+tweight is: 5.643e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49758e+08
+tweight is: 5.61436e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50044e+08
+tweight is: 5.64994e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49689e+08
+tweight is: 5.74911e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48697e+08
+tweight is: 5.64683e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.4972e+08
+tweight is: 5.60402e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50148e+08
+tweight is: 5.74167e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48771e+08
+tweight is: 5.69564e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49232e+08
+tweight is: 5.72446e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48943e+08
+tweight is: 5.75991e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48589e+08
+tweight is: 5.56978e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.5049e+08
+tweight is: 5.65852e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49602e+08
+tweight is: 5.67259e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49462e+08
+tweight is: 5.64903e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49698e+08
+tweight is: 5.6311e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49877e+08
+tweight is: 5.72105e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48978e+08
+tweight is: 5.76069e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48581e+08
+tweight is: 5.65136e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49675e+08
+tweight is: 5.66645e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49523e+08
+tweight is: 5.67862e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49402e+08
+tweight is: 5.63558e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49832e+08
+tweight is: 5.65094e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49678e+08
+tweight is: 5.64952e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49693e+08
+tweight is: 5.64579e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.4973e+08
+tweight is: 5.66478e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.4954e+08
+tweight is: 5.63824e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49806e+08
+tweight is: 5.58227e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50365e+08
+tweight is: 5.66333e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49554e+08
+tweight is: 5.55148e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50673e+08
+tweight is: 5.59673e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.5022e+08
+tweight is: 5.60857e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50102e+08
+tweight is: 5.67473e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49441e+08
+tweight is: 5.66941e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49493e+08
+tweight is: 5.64558e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49732e+08
+tweight is: 5.58198e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50368e+08
+tweight is: 5.73853e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48803e+08
+tweight is: 5.71133e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49075e+08
+tweight is: 5.79413e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48247e+08
+tweight is: 5.64577e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.4973e+08
+tweight is: 5.75182e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48669e+08
+tweight is: 5.62531e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49935e+08
+tweight is: 5.6288e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.499e+08
+tweight is: 5.56685e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.5052e+08
+tweight is: 5.60428e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50145e+08
+tweight is: 5.73612e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48827e+08
+tweight is: 5.56959e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50492e+08
+tweight is: 5.72806e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48907e+08
+tweight is: 5.59026e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50285e+08
+tweight is: 5.72564e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48932e+08
+tweight is: 5.55663e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.50622e+08
+tweight is: 5.71975e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.48991e+08
+tweight is: 5.62942e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49893e+08
+tweight is: 5.65726e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49615e+08
+tweight is: 5.70747e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49113e+08
+tweight is: 5.66368e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49551e+08
+tweight is: 5.67779e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.4941e+08
+tweight is: 5.70017e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49186e+08
+tweight is: 5.67256e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.49462e+08
+hereLagrange serial searching..............
+tweight is: 58135468
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248052000
+tweight is: 57793340
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248394464
+tweight is: 57759468
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248428352
+tweight is: 58061012
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248126976
+tweight is: 57388300
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248799552
+tweight is: 57809376
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248378304
+tweight is: 57135000
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-249052864
+tweight is: 58838808
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247348992
+tweight is: 57236156
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248951808
+tweight is: 58120376
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248067648
+tweight is: 58704160
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247483488
+tweight is: 58341444
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247846432
+tweight is: 58103288
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248084544
+tweight is: 58421968
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247765664
+tweight is: 58119480
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248068512
+tweight is: 57765848
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248421696
+tweight is: 57655404
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248532384
+tweight is: 58503948
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247683488
+tweight is: 57882860
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248305248
+tweight is: 58365672
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247822144
+tweight is: 56787356
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-249400608
+tweight is: 57682268
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248505856
+tweight is: 57527400
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248660480
+tweight is: 57313532
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248874464
+tweight is: 58075860
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248111936
+tweight is: 57879820
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248308288
+tweight is: 57770256
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248417952
+tweight is: 58263168
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247924608
+tweight is: 57924024
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248264000
+tweight is: 58367960
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247819968
+tweight is: 57200140
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248988160
+tweight is: 58743652
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247444128
+tweight is: 57943552
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248244672
+tweight is: 57010508
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-249177280
+tweight is: 57228692
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248959136
+tweight is: 58056704
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248131168
+tweight is: 57616380
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248571744
+tweight is: 58775584
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247412160
+tweight is: 57794256
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248393376
+tweight is: 57736012
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248451552
+tweight is: 58015064
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248172992
+tweight is: 58483380
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247704608
+tweight is: 57395676
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248792224
+tweight is: 57999680
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248188224
+tweight is: 57646356
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248541664
+tweight is: 58521276
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247666688
+tweight is: 58441416
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247746880
+tweight is: 57681864
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248505856
+tweight is: 57701556
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248486272
+tweight is: 57664596
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248523328
+tweight is: 57939380
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248248768
+tweight is: 58538308
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247649536
+tweight is: 57875920
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248311776
+tweight is: 58815064
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247372672
+tweight is: 58657072
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247530848
+tweight is: 57667040
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248520800
+tweight is: 58076132
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248111584
+tweight is: 59245768
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-246942176
+tweight is: 59030492
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247157152
+tweight is: 57651360
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248536704
+tweight is: 58485032
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247702752
+tweight is: 58384852
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247803008
+tweight is: 57837416
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248350656
+tweight is: 57311836
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248876096
+tweight is: 57674600
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248513184
+tweight is: 57881544
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248306400
+tweight is: 58354796
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247833120
+tweight is: 58620464
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247567168
+tweight is: 58393912
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247794016
+tweight is: 58676052
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247512032
+tweight is: 57622512
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248565216
+tweight is: 57776916
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248410976
+tweight is: 58431232
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247756672
+tweight is: 57959828
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248227808
+tweight is: 57886316
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248301472
+tweight is: 58079896
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248108192
+tweight is: 58531528
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247656544
+tweight is: 58596784
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247591104
+tweight is: 57996912
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248190912
+tweight is: 57857980
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248330112
+tweight is: 57556044
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248631584
+tweight is: 58385304
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247802656
+tweight is: 58933848
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247254240
+tweight is: 58332872
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247854880
+tweight is: 57991832
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248195968
+tweight is: 57700876
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248486752
+tweight is: 57170344
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-249017440
+tweight is: 58509592
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247678048
+tweight is: 58363948
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247824096
+tweight is: 58122592
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248065184
+tweight is: 58403552
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247784416
+tweight is: 57711988
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248476160
+tweight is: 58377652
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247810528
+tweight is: 58006064
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248181760
+tweight is: 58549164
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247638656
+tweight is: 57616248
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248571488
+tweight is: 57863712
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248324192
+tweight is: 58079932
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-248108064
+tweight is: 58540328
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247647936
+tweight is: 58210916
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-247976960
+herewhat happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:306188
+service size6000
+graph size:5980
+node:1000
+task:6000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:250
+Lagrange parrel searching..............
+tweight is: 9.18746e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97001e+08
+tweight is: 9.61045e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96578e+08
+tweight is: 8.77998e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97408e+08
+tweight is: 9.71391e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96474e+08
+tweight is: 8.93944e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97249e+08
+tweight is: 9.51116e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96677e+08
+tweight is: 8.90219e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97286e+08
+tweight is: 9.46765e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96721e+08
+tweight is: 9.97085e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96217e+08
+tweight is: 9.27578e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96912e+08
+tweight is: 9.94315e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96245e+08
+tweight is: 9.53691e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96651e+08
+tweight is: 9.39778e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9679e+08
+tweight is: 9.41611e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96772e+08
+tweight is: 9.3616e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96826e+08
+tweight is: 9.55533e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96632e+08
+tweight is: 8.84377e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97344e+08
+tweight is: 1.01311e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96057e+08
+tweight is: 9.83482e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96353e+08
+tweight is: 9.26552e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96923e+08
+tweight is: 9.99245e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96195e+08
+tweight is: 9.23242e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96956e+08
+tweight is: 8.89456e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97294e+08
+tweight is: 1.02775e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.95911e+08
+tweight is: 9.56569e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96622e+08
+tweight is: 8.25764e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9793e+08
+tweight is: 9.30511e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96883e+08
+tweight is: 9.87007e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96318e+08
+tweight is: 8.87752e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9731e+08
+tweight is: 9.71859e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96469e+08
+tweight is: 9.80063e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96387e+08
+tweight is: 9.79263e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96395e+08
+tweight is: 9.34618e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96842e+08
+tweight is: 9.28485e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96903e+08
+tweight is: 9.8594e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96328e+08
+tweight is: 9.84924e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96339e+08
+tweight is: 9.73448e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96453e+08
+tweight is: 9.79074e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96397e+08
+tweight is: 9.64415e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96544e+08
+tweight is: 9.34024e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96847e+08
+tweight is: 8.93602e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97252e+08
+tweight is: 9.25688e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96931e+08
+tweight is: 9.0281e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9716e+08
+tweight is: 9.55967e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96628e+08
+tweight is: 9.21575e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96972e+08
+tweight is: 8.10049e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.98087e+08
+tweight is: 9.58312e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96605e+08
+tweight is: 9.49991e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96688e+08
+tweight is: 9.55202e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96636e+08
+tweight is: 9.33892e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96849e+08
+tweight is: 9.35054e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96837e+08
+tweight is: 9.08082e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97107e+08
+tweight is: 9.5776e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96611e+08
+tweight is: 8.60042e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97588e+08
+tweight is: 1.02639e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.95924e+08
+tweight is: 9.44554e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96743e+08
+tweight is: 9.41114e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96777e+08
+tweight is: 8.83716e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97351e+08
+tweight is: 9.57629e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96611e+08
+tweight is: 8.58619e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97602e+08
+tweight is: 9.4328e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96755e+08
+tweight is: 8.69026e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97498e+08
+tweight is: 9.55417e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96634e+08
+tweight is: 9.11434e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97074e+08
+tweight is: 9.15515e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97033e+08
+tweight is: 9.27703e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96911e+08
+tweight is: 9.56628e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96622e+08
+tweight is: 9.76582e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96422e+08
+tweight is: 9.62672e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96561e+08
+tweight is: 8.74775e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9744e+08
+tweight is: 8.91595e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97272e+08
+tweight is: 1.02043e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.95984e+08
+tweight is: 9.49534e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96692e+08
+tweight is: 8.8503e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97337e+08
+tweight is: 9.43996e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96748e+08
+tweight is: 9.24836e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96939e+08
+tweight is: 1.02955e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.95892e+08
+tweight is: 9.67481e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96513e+08
+tweight is: 9.94329e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96245e+08
+tweight is: 9.99327e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96195e+08
+tweight is: 8.99138e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97197e+08
+tweight is: 9.48442e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96704e+08
+tweight is: 9.35805e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9683e+08
+tweight is: 9.16648e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97021e+08
+tweight is: 9.20808e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9698e+08
+tweight is: 8.9613e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97227e+08
+tweight is: 8.85474e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97333e+08
+tweight is: 9.40505e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96783e+08
+tweight is: 9.1058e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97082e+08
+tweight is: 9.76642e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96422e+08
+tweight is: 9.5437e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96645e+08
+tweight is: 9.86336e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96325e+08
+tweight is: 8.44348e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97745e+08
+tweight is: 9.17109e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97017e+08
+tweight is: 9.06755e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.9712e+08
+tweight is: 9.71885e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96469e+08
+tweight is: 9.44394e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96744e+08
+tweight is: 9.01252e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.97175e+08
+tweight is: 9.50647e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96682e+08
+tweight is: 1.01842e+07
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-2.96004e+08
+hereLagrange serial searching..............
+tweight is: 9306108
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296881824
+tweight is: 10541840
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-295646368
+tweight is: 9346449
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296841856
+tweight is: 9116041
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297072128
+tweight is: 10059574
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296128544
+tweight is: 9487519
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296700608
+tweight is: 9257787
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296930464
+tweight is: 9137496
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297050464
+tweight is: 9470086
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296717376
+tweight is: 9969743
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296218528
+tweight is: 9409962
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296777696
+tweight is: 9477027
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296711328
+tweight is: 9646287
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296541888
+tweight is: 10245741
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-295941920
+tweight is: 9714154
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296473856
+tweight is: 9438308
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296749888
+tweight is: 8995127
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297192832
+tweight is: 9744774
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296443296
+tweight is: 9384569
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296803168
+tweight is: 9580076
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296608000
+tweight is: 9761267
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296427072
+tweight is: 10026164
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296162080
+tweight is: 9023080
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297165120
+tweight is: 9647589
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296540768
+tweight is: 9380963
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296807360
+tweight is: 9901394
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296286720
+tweight is: 8368461
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297819488
+tweight is: 9307197
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296881120
+tweight is: 8392620
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297795200
+tweight is: 9805110
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296382688
+tweight is: 10339602
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-295848480
+tweight is: 10130287
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296057952
+tweight is: 10018187
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296169376
+tweight is: 9155749
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297032352
+tweight is: 10006085
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296181824
+tweight is: 9541463
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296646688
+tweight is: 9382257
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296805856
+tweight is: 9385313
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296802816
+tweight is: 9382189
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296806080
+tweight is: 9711556
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296476320
+tweight is: 10005143
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296183008
+tweight is: 8827932
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297360224
+tweight is: 9173367
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297014848
+tweight is: 9620763
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296567168
+tweight is: 9521435
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296666688
+tweight is: 9430198
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296758240
+tweight is: 9991816
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296196096
+tweight is: 9377485
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296810560
+tweight is: 9168517
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297019712
+tweight is: 8254978
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297932992
+tweight is: 9819715
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296368608
+tweight is: 9527502
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296660864
+tweight is: 9269138
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296919200
+tweight is: 9511848
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296676192
+tweight is: 9810522
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296377600
+tweight is: 9265288
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296922368
+tweight is: 9175585
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297012608
+tweight is: 9432312
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296755584
+tweight is: 8857932
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297329984
+tweight is: 9718175
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296470112
+tweight is: 9631732
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296556352
+tweight is: 10621528
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-295566496
+tweight is: 8986420
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297201824
+tweight is: 10310262
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-295877952
+tweight is: 9701056
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296486752
+tweight is: 9723981
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296464064
+tweight is: 8983352
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297204608
+tweight is: 9604058
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296584448
+tweight is: 10633523
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-295554432
+tweight is: 9184736
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297003104
+tweight is: 9057361
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297130656
+tweight is: 8556758
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297630880
+tweight is: 8869423
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297318464
+tweight is: 9120141
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297067744
+tweight is: 10385326
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-295802624
+tweight is: 9462903
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296725664
+tweight is: 9581997
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296606208
+tweight is: 9727280
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296460992
+tweight is: 9381200
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296807040
+tweight is: 8343914
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297843776
+tweight is: 9008058
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297180256
+tweight is: 9967430
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296220704
+tweight is: 8901039
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297287296
+tweight is: 8730559
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297457280
+tweight is: 8901248
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297286848
+tweight is: 9977366
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296210432
+tweight is: 9049137
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297138912
+tweight is: 9943200
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296244672
+tweight is: 9563052
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296624960
+tweight is: 9086305
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297101408
+tweight is: 9591353
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296596768
+tweight is: 8971860
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297216416
+tweight is: 9889530
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296298656
+tweight is: 9236019
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296952064
+tweight is: 10156265
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296031808
+tweight is: 9709923
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296478336
+tweight is: 9669876
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296518304
+tweight is: 9377807
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296810016
+tweight is: 9367399
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-296820480
+tweight is: 9120039
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-297067776
+herewhat happened
+here../result/1000/2/
+ssadsa../result/1000/2/service.txttotal demand:306188
+service size6000
+graph size:5980
+node:1000
+task:6000
+edge:5980
+type:BA
+GRPHTYPE:1
+capacity:300
+Lagrange parrel searching..............
+tweight is: 2.25206e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03936e+08
+tweight is: 2.26775e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.0392e+08
+tweight is: 1.9971e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04191e+08
+tweight is: 2.15895e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04029e+08
+tweight is: 2.08194e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04106e+08
+tweight is: 1.78272e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04406e+08
+tweight is: 2.10113e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04087e+08
+tweight is: 1.91344e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04275e+08
+tweight is: 2.35486e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03833e+08
+tweight is: 2.14194e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04046e+08
+tweight is: 1.90198e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04286e+08
+tweight is: 2.24223e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03945e+08
+tweight is: 2.14437e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04044e+08
+tweight is: 2.26456e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03923e+08
+tweight is: 1.99593e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04192e+08
+tweight is: 2.03691e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04151e+08
+tweight is: 2.05158e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04137e+08
+tweight is: 1.79235e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04396e+08
+tweight is: 2.09801e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.0409e+08
+tweight is: 1.81154e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04376e+08
+tweight is: 1.96898e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04219e+08
+tweight is: 1.99176e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04196e+08
+tweight is: 2.01361e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04174e+08
+tweight is: 1.85743e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.0433e+08
+tweight is: 1.87324e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04315e+08
+tweight is: 2.01638e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04172e+08
+tweight is: 2.00973e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04178e+08
+tweight is: 2.20403e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03984e+08
+tweight is: 2.02406e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04164e+08
+tweight is: 2.04059e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04148e+08
+tweight is: 2.19496e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03993e+08
+tweight is: 2.08719e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04101e+08
+tweight is: 2.11338e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04074e+08
+tweight is: 1.64919e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04539e+08
+tweight is: 1.861e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04327e+08
+tweight is: 2.14041e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04048e+08
+tweight is: 1.94826e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.0424e+08
+tweight is: 1.94603e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04242e+08
+tweight is: 1.93051e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04258e+08
+tweight is: 2.06561e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04122e+08
+tweight is: 2.28874e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03899e+08
+tweight is: 2.25208e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03936e+08
+tweight is: 2.12552e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04062e+08
+tweight is: 2.12297e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04065e+08
+tweight is: 2.26152e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03926e+08
+tweight is: 2.31144e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03876e+08
+tweight is: 2.02342e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04164e+08
+tweight is: 2.16302e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04025e+08
+tweight is: 2.14977e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04038e+08
+tweight is: 2.1828e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04006e+08
+tweight is: 2.04467e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04143e+08
+tweight is: 2.16855e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04019e+08
+tweight is: 2.11905e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04069e+08
+tweight is: 2.14441e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04044e+08
+tweight is: 2.06652e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04121e+08
+tweight is: 2.19014e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03998e+08
+tweight is: 2.04178e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04146e+08
+tweight is: 2.43115e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03757e+08
+tweight is: 2.09529e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04093e+08
+tweight is: 1.83453e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04353e+08
+tweight is: 2.0998e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04088e+08
+tweight is: 2.09845e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.0409e+08
+tweight is: 1.97026e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04218e+08
+tweight is: 2.2274e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03961e+08
+tweight is: 1.78888e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04399e+08
+tweight is: 2.34641e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03841e+08
+tweight is: 2.06372e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04124e+08
+tweight is: 2.17373e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04014e+08
+tweight is: 1.93309e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04254e+08
+tweight is: 2.42761e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03761e+08
+tweight is: 2.12899e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04059e+08
+tweight is: 2.38338e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03804e+08
+tweight is: 1.61344e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04575e+08
+tweight is: 1.89123e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04296e+08
+tweight is: 2.10955e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04078e+08
+tweight is: 1.83021e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04358e+08
+tweight is: 2.20682e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03981e+08
+tweight is: 1.976e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04212e+08
+tweight is: 2.28503e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03903e+08
+tweight is: 2.01069e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04177e+08
+tweight is: 1.8892e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04299e+08
+tweight is: 2.0168e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04171e+08
+tweight is: 2.17091e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04017e+08
+tweight is: 1.97529e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04213e+08
+tweight is: 2.06066e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04127e+08
+tweight is: 2.08827e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04099e+08
+tweight is: 1.69929e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04489e+08
+tweight is: 2.14922e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04039e+08
+tweight is: 2.2317e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03956e+08
+tweight is: 2.00065e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04187e+08
+tweight is: 1.99938e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04188e+08
+tweight is: 2.2313e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03957e+08
+tweight is: 2.19438e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03994e+08
+tweight is: 2.17084e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04017e+08
+tweight is: 2.1286e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04059e+08
+tweight is: 2.12884e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04059e+08
+tweight is: 2.06736e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04121e+08
+tweight is: 1.86011e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04328e+08
+tweight is: 2.34157e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.03847e+08
+tweight is: 1.89492e+06
+in check
+check corrected!!!
+lowbound is:3.06188e+08
+addinpart is:-3.04293e+08
+hereLagrange serial searching..............
+tweight is: 1537780
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304650144
+tweight is: 1564796
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304623104
+tweight is: 1387191
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304801024
+tweight is: 1579958
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304608064
+tweight is: 1609665
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304578304
+tweight is: 1534742
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304653088
+tweight is: 1571383
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304616800
+tweight is: 1539049
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304649024
+tweight is: 1476097
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304711872
+tweight is: 1576112
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304611904
+tweight is: 1614012
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304574016
+tweight is: 1475753
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304712320
+tweight is: 1474332
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304713248
+tweight is: 1682730
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304505312
+tweight is: 1463484
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304724224
+tweight is: 1677552
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304510368
+tweight is: 1609718
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304578240
+tweight is: 1668955
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304518944
+tweight is: 1615704
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304572160
+tweight is: 1395878
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304792000
+tweight is: 1472942
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304714752
+tweight is: 1500756
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304687616
+tweight is: 1588488
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304599712
+tweight is: 1364004
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304823936
+tweight is: 1636264
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304551648
+tweight is: 1484336
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304703360
+tweight is: 1726069
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304461984
+tweight is: 1557574
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304630432
+tweight is: 1402624
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304784960
+tweight is: 1657531
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304530848
+tweight is: 1576472
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304611520
+tweight is: 1631261
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304556544
+tweight is: 1729046
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304458912
+tweight is: 1468426
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304719456
+tweight is: 1509209
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304678624
+tweight is: 1712339
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304475360
+tweight is: 1625557
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304561728
+tweight is: 1596781
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304591648
+tweight is: 1388555
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304799648
+tweight is: 1500393
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304687808
+tweight is: 1753744
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304434336
+tweight is: 1631457
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304556288
+tweight is: 1696226
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304491584
+tweight is: 1516521
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304671552
+tweight is: 1677429
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304510528
+tweight is: 1565729
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304622144
+tweight is: 1539718
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304648320
+tweight is: 1409233
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304778240
+tweight is: 1445650
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304742144
+tweight is: 1647293
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304540672
+tweight is: 1510474
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304677472
+tweight is: 1551727
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304636640
+tweight is: 1601207
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304586464
+tweight is: 1519729
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304668736
+tweight is: 1564791
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304623232
+tweight is: 1645129
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304542848
+tweight is: 1459760
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304728416
+tweight is: 1595237
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304592704
+tweight is: 1464583
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304723296
+tweight is: 1578437
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304609728
+tweight is: 1558106
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304629568
+tweight is: 1695172
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304492576
+tweight is: 1639101
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304548736
+tweight is: 1596766
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304591264
+tweight is: 1564112
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304623776
+tweight is: 1342737
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304845056
+tweight is: 1439098
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304749088
+tweight is: 1603797
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304584352
+tweight is: 1527829
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304660256
+tweight is: 1768365
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304419840
+tweight is: 1518601
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304669440
+tweight is: 1500711
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304687424
+tweight is: 1478781
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304709248
+tweight is: 1597224
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304590688
+tweight is: 1588185
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304599904
+tweight is: 1692702
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304495104
+tweight is: 1580484
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304607584
+tweight is: 1588109
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304599936
+tweight is: 1545882
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304642112
+tweight is: 1752475
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304435520
+tweight is: 1558479
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304629440
+tweight is: 1550780
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304637152
+tweight is: 1562698
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304625376
+tweight is: 1579755
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304608160
+tweight is: 1625683
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304562208
+tweight is: 1495706
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304692384
+tweight is: 1461852
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304726080
+tweight is: 1619285
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304568768
+tweight is: 1660700
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304527040
+tweight is: 1498518
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304689120
+tweight is: 1471026
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304717184
+tweight is: 1506717
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304681440
+tweight is: 1626832
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304561024
+tweight is: 1624444
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304563584
+tweight is: 1582185
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304605408
+tweight is: 1527651
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304660256
+tweight is: 1528768
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304658880
+tweight is: 1452307
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304735392
+tweight is: 1619509
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304568512
+tweight is: 1503018
+in check
+check corrected!!!
+lowbound is:306188000
+addinpart is:-304685056
+herewhat happened
+here

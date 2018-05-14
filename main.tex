@@ -10,9 +10,9 @@
 \begin{chineseabstract}
 业务量工程（Traffic Engineering）能够通过为业务选择合理的网络路由来达到充分利用网络资源、提高网络性能、满足Qos需求等目的。在SDN网络中，集中式的SDN控制器能够在全局拓扑上进行业务量工程，提高业务量工程的优化效果。然而，由于互联网应用的快速增加，短时间内会有大量业务到达SDN网络，同时，SDN网络的规模也相应增大，这要求SDN控制器能在短时间内在大网络拓扑上为大量业务计算路由，业务量工程的计算面临着时间上的挑战。所以，为了缩短SDN控制器的计算时间，本文利用GPU的强大并行计算能力来加速业务量工程算法。
 
-针对SDN IP网络，本文首先将业务量工程问题建模成一个带链路容量约束的MILP模型。为了求解这个模型，本文提出了两种并行算法GA-PTEA（Genetic Algorithm Based Parallel Traffic Engineering Algorithm）和LR-PTEA（Lagrange Relaxing Based Parallel Traffic Engineering Algorithm)。其中，GA-PTEA将原来的业务量工程模型简化为基于备选路径的业务量工程模型，利用并行的遗传算法来求解业务量工程问题，并行加速比可达到20倍以上。LR-PTEA则采用了拉格朗日松弛的方法，首先通过松弛链路容量约束，将业务量工程问题分解为一批业务的最短路径计算问题，然后设计了基于GPU的并行算法来加速最短路的计算。LR-PTEA使用次梯度下降方法来求解拉格朗日对偶问题，为了加快次梯度算法的收敛速度，LR-PTEA采用了高效的次梯度步长更新方法，同时，LR-PTEA在求解对偶问题的过程中采用了快速的路径调整策略来获得对原问题目标函数的可行解。本文的实验发现基于GPU的LR-PTEA并行算法可以在短时间内得到业务量工程问题的优化解，与串行算法LR-STEA(Lagrange Relaxing Based Serial Traffic Engineering Algorithm)相比，加速比可达到10倍以上。
+针对SDN IP网络，本文首先将业务量工程问题建模成一个带链路容量约束的MILP模型。为了求解这个模型，本文提出了两种并行算法GA-PTEA（Genetic Algorithm Based Parallel Traffic Engineering Algorithm）和LR-PTEA（Lagrange Relaxing Based Parallel Traffic Engineering Algorithm)。其中，GA-PTEA将原来的业务量工程模型简化为基于备选路径的业务量工程模型，利用并行的遗传算法来求解业务量工程问题，并行加速比可达到15倍。LR-PTEA则采用了拉格朗日松弛的方法，首先通过松弛链路容量约束，将业务量工程问题分解为一批业务的最短路径计算问题，然后设计了基于GPU的并行算法来加速最短路的计算。LR-PTEA使用次梯度下降方法来求解拉格朗日对偶问题，为了加快次梯度算法的收敛速度，LR-PTEA采用了高效的次梯度步长更新方法，同时，LR-PTEA在求解对偶问题的过程中采用了快速的路径调整策略来获得对原问题目标函数的可行解。本文的实验发现基于GPU的LR-PTEA并行算法可以在短时间内得到业务量工程问题的优化解，与串行算法LR-STEA(Lagrange Relaxing Based Serial Traffic Engineering Algorithm)相比，加速比可达到10倍以上。
 
-在SDN弹性光网络中，首先，为了简化频谱分配问题，本文采用分层图模型将弹性光网络中的频谱分配问题转化为路由选择问题。其次，为了优化弹性光网络中业务的路由代价，减小资源使用，降低阻塞率，本文提出了TESAA（Traffic Engineering and Spectrum Allocate Algrithm）优化算法。最后，为了缩短SDN控制器的计算时间，我们对TESAA进行并行加速，分别针对无权图和带权图设计了基于GPU的并行路由算法。实验发现TESAA可以大大减小路由的代价、节省网络资源和有效降低业务的阻塞率，基于GPU的并行算法PTESAA（Parallel TESAA)与串行算法STESAA(Serial TESAA)相比，加速比可达到6倍。
+在SDN弹性光网络中，首先，为了简化频谱分配问题，本文采用分层图模型将弹性光网络中的频谱分配问题转化为路由选择问题。其次，为了优化弹性光网络中业务的路由代价，减少资源使用，降低阻塞率，本文提出了TESAA（Traffic Engineering and Spectrum Allocate Algrithm）优化算法。最后，为了缩短SDN控制器的计算时间，我们对TESAA进行并行加速，分别针对无权图和带权图设计了基于GPU的并行路由算法。实验发现TESAA可以大大减小路由的代价、节省网络资源和有效降低业务的阻塞率，基于GPU的并行算法PTESAA（Parallel TESAA)与串行算法STESAA(Serial TESAA)相比，加速比可达到6倍以上。
 
 \chinesekeyword{GPU，业务量工程，SDN，弹性光网络，RSA}
 \end{chineseabstract}
@@ -21,7 +21,7 @@
 Traffic engineering refers to the process of optimizing the network utilization, minimizing network costs, improving network performance, and meeting QoS requirements by selecting reasonable network routes for the services. However, due to the rapid increase of Internet applications ,there will be a large number of services reaching the SDN network at the same time,the size of the SDN network will also increase accordingly.This makes SDN controllor needs to calculate a large-scale routing in a short time. To solve the problem of large-scale routing calculation in traffic engineering, we use GPU-based parallel algorithms to accelerate the traffic engineering algorithm.
 
 For SDN IP networks, this paper first proposes a traffic engineering model with link capacity constraints. The utility function in the model is to minimize the routing cost. In order to solve this model,two parallel algorithms GA-PTEA (Genetic algorithm based parallel traffic engineering algorithm) and LR-PTEA (Lagrange relaxing based parallel traffic engineering algorithm) are proposed
-Among them, GA-PTEA adopts a traffic engineering model based on alternative paths,and uses parallel genetic algorithms to solve the traffic engineering problems,The parallel acceleration ratio can reach more than 20 times. LR-PTEA uses a Lagrange relaxation-based traffic engineering model. First, the traffic engineering problem is decomposed into a batch of shortest path problems by relaxing the link capacity constraints,then the path calculation tasks are dispatched to GPU and executed concurrently on GPU.To improve the convergence speed,LR-PTEA uses efficient methods to adjust the calculated paths for a part of traffic demands and set the step size of subgradient algorithm for solving the Lagrangian dual problem in each iteration.The experiment in this paper found that LR-PTEA can get the optimized solution of the traffic engineering problem in a short time.The experiment also found that the speedup of GPU-based LR-PTEA can reach up to 6 times.
+Among them, GA-PTEA adopts a traffic engineering model based on alternative paths,and uses parallel genetic algorithms to solve the traffic engineering problems,The parallel acceleration ratio can reach more than 15 times. LR-PTEA uses a Lagrange relaxation-based traffic engineering model. First, the traffic engineering problem is decomposed into a batch of shortest path problems by relaxing the link capacity constraints,then the path calculation tasks are dispatched to GPU and executed concurrently on GPU.To improve the convergence speed,LR-PTEA uses efficient methods to adjust the calculated paths for a part of traffic demands and set the step size of subgradient algorithm for solving the Lagrangian dual problem in each iteration.The experiment in this paper found that LR-PTEA can get the optimized solution of the traffic engineering problem in a short time.The experiment also found that the speedup of GPU-based LR-PTEA can reach up to 6 times.
 
 For the SDN elastic optical network, this paper first uses the layered graph model to transform the spectrum allocation problem into a routing problem. In order to optimize the routing cost of services in the elastic optical network, reduce the network resource usage, and reduce the blocking rate, this paper proposes a TESAA (traffic engineering and spectrum allocation algrithm)framework.we use GPU to accelerated the calculation of TESAA.In the case of unweighted graphs,this paper proposes a parallel BFS algorithm to accelerate the TESAA framework. In the case of weighted graphs, this paper proposes a shortest path dynamic programming model with hops constraint, we designed a parallel dynamic programming algorithm to accelerate the caculation of TESAA. in our experiments,we found that TESAA can greatly reduce the cost of routing and effectively reduce the blocking rate of services,the seepdup of GPU-based parallel algorithm PTESAA(parallel TESAA) can reach up to 5 times.
 
@@ -33,11 +33,12 @@ For the SDN elastic optical network, this paper first uses the layered graph mod
 \thesischapterexordium
 \section{研究背景与意义}
 
-在网络中，为了充分利用网络资源、提高网络性能，我们需要为业务选择合适的网络路由，这被称为业务量工程（Traffic Engineering，TE，又被称为路由优化 Routing Optimization ，RO）问题。业务量工程问题的传统解决方法主要有以下两种\citing{shen}。第一，根据业务的流量模式来调整网络的权重以实现业务量工程。第二，在IP网络中通过MPLS来实现业务量工程。
+在网络中，为了充分利用网络资源、提高网络性能，我们需要为业务选择合适的网络路由，这被称为业务量工程（Traffic Engineering，TE，又被称为路由优化 Routing Optimization ，RO）问题。业务量工程问题的传统解决方法主要有以下两种\citing{shen}。第一，根据业务的流量模式来调整网络的权重以实现业务量工程；第二，在IP网络中通过MPLS来实现业务量工程。
 
-软件定义网络(Software Defined Network，SDN)是一种创新的网络架构，与传统网络不同，SDN网络架构中引入了集中式的控制器，将网络的控制平面和数据平面分离开来\citing{OpenFlow} \citing{SDN}。SDN网络中的控制器负责对网络进行控制和调度，同时控制器通过向上提供编程接口，使得网络控制规则可以根据不同的需求进行设计，使得网络的控制设计更加灵活，网络管理人员可以更方便的更新各种网络应用和服务，而无需关心底层的数据平面管理。在SDN底层数据平面中，各种网络设备被抽象简化，数据流通过匹配控制器下发在设备中的流表规则来进行快速转发。和传统网络相比，SDN架构大大简化了网络设备的复杂功能，减小了网络成本。SDN架构中的控制器可以获得全网络的拓扑信息，同时，SDN控制器能够通过下发流表规则来对网络流进行细粒度的调度，所以在SDN架构下可以很容易地实现基于全局网络的业务量工程。微软 \citing{Microsoft}和谷歌 \citing{Google}的实验结果证明，在SDN网络架构的数据中心网络中，业务量工程能够在网络吞吐量和链路利用率上达到接近最优化性能的表现。
+软件定义网络(Software Defined Network，SDN)是一种创新的网络架构，与传统网络不同，SDN网络架构中引入了集中式的控制器，将网络的控制平面和数据平面分离开来\citing{OpenFlow,SDN}。SDN网络中的控制器负责对网络进行控制和调度，同时控制器通过向上提供编程接口，使得网络控制规则可以根据不同的需求进行设计，使得网络的控制设计更加灵活，网络管理人员可以更方便的更新各种网络应用和服务，而无需关心底层的数据平面管理。在SDN底层数据平面中，各种网络设备被抽象简化，数据流通过匹配控制器下发在设备中的流表规则来进行快速转发。和传统网络相比，SDN架构大大简化了网络设备的复杂功能，减少了网络成本。SDN架构中的控制器可以获得全网络的拓扑信息，同时，SDN控制器能够通过下发流表规则来对网络流进行细粒度的调度，所以在SDN架构下可以很容易地实现基于全局网络的业务量工程。
+微软\citing{Microsoft}和谷歌\citing{Google}的实验结果证明，在SDN网络架构的数据中心网络中，业务量工程能够在网络吞吐量和链路利用率上达到接近最优化性能的表现。
 
-然而，SDN网络下的业务量工程为SDN控制器带来了较大的计算压力，原因有以下三点：第一，随着网络应用的快速增加，在SDN网络中短时间内可能会有大量业务到达控制器 \citing{application}，所以控制平面必须短时间内为大量业务计算路由；第二，为了适应大量业务的加入，网络规模也快速增大\citing{5G} \citing{DCN}；第三，SDN技术使网络能够几乎满负荷运行\citing{Secondrouting}，这意味着一旦网络流量发生重大变化或者网络链路出现故障，SDN控制器需要在短时间内重新计算出路由。因此，在大网络下对大量业务进行快速和高效的业务量工程成为了一个重要却困难的问题。
+然而，SDN网络下的业务量工程为SDN控制器带来了较大的计算压力，原因有以下三点：第一，随着网络应用的快速增加，在SDN网络中短时间内可能会有大量业务到达控制器\citing{application}，所以控制平面必须短时间内为大量业务计算路由；第二，为了适应大量业务的加入，网络规模也快速增大\citing{5G,DCN}；第三，SDN技术使网络能够几乎满负荷运行\citing{Secondrouting}，这意味着一旦网络流量发生重大变化或者网络链路出现故障，SDN控制器需要在短时间内重新计算出路由。因此，在大网络下对大量业务进行快速和高效的业务量工程成为了一个重要却困难的问题。
 
 为了缩短SDN网络下业务量工程的计算时间，设计高效的并行算法是一种常见的解决思路。另外，由于业务量工程中大量业务之间的路由计算是相互独立的，这也为并行业务量工程算法的设计提供了可能性。同时，现今出现的商业服务器具有多核CPU和强大的GPU，为并行算法提供了一种低成本、高性能的计算环境，尤其是GPU，他具有大量的计算单元，现今的GPU能够同时调度和执行上千个线程，具有强大的并行计算能力。
 
@@ -51,18 +52,18 @@ GPGPU(General Purpose Programming on GPU)是指利用GPU进行通用计算（而
 
 另一方面，过去十年，GPU的计算能力得到了大幅度的提高，GPU通用计算模型得到大力发展\citing{GPUdeve, CUDA}，GPU的理论计算能力提高速度大大高于CPU的计算能力提高速度\citing{GPUdeve}。因此，许多基于GPU的并行算法被提出来求解一些整数规划问题，比如说旅行商问题\citing{TSP}，路线规划问题\citing{VRP}，最短路问题\citing{SSP1, SSP2}，最小生成树问题 \citing{MST}，现存的研究\citing{TSP, VRP, SSP1, SSP2, MST}表明基于GPU的并行算法可以比基于CPU的算法快十倍以上。
 
-现今，对并行业务量工程算法的研究较少，文献\citing{ParaTE1, ParaTE2}对业务量工程问题提出了并行的算法，在论文\citing{ParaTE1}中，作者为$\alpha$公平的业务量工程问题提出了一种很适合在FPGA和GPU上实现并行的算法，为了达到$\alpha$公平的目标，论文 \citing {ParaTE1}假设一个业务需求需要被分到多条路径上，但是这个假设在实际中很难实现，这是因为，第一，如果业务流是细粒度的流（TCP/UDP），把业务分到不同的路径将导致网络数据包的乱序传递。第二，SDN网络需要使用更多的流表规则来将聚合的流分离成细粒度的流，但是SDN交换机上的流表匹配资源TCAM(Ternary Content Addressable Memory)是有限的。第三，在SDN网络中仅仅通过添加一系列流表规则来细粒度地分割流量是很难实现的。在论文 \citing{ParaTE2}中提出一种基于GPU的遗传算法来解决业务量工程问题，其代价函数是最大链路利用率（MLU，Max Link Utilization），但是大量基于实际拓扑的实验表明，在网络利用率没有达到拥塞程度的时候，链路利用率效用函数，特别是最大链路利用率，不是对业务量工程效果的较好评价函数 \citing{BeyondMLU}。反之，在网络链路发生拥塞的情况下，仅仅优化链路利用率，无法给出一个满足容量约束的可行解。
+现今，对并行业务量工程算法的研究较少，文献\citing{ParaTE1, ParaTE2}对业务量工程问题提出了并行的算法，在论文\citing{ParaTE1}中，作者为$\alpha$公平的业务量工程问题提出了一种在FPGA上实现并行的算法，为了达到$\alpha$公平的目标，论文 \citing {ParaTE1}假设一个业务需求需要被分到多条路径上，但是这个假设在实际中很难实现，这是因为，第一，如果业务流是细粒度的流（TCP/UDP），把业务分到不同的路径将导致网络数据包的乱序传递。第二，SDN网络需要使用更多的流表规则来将聚合的流分离成细粒度的流，但是SDN交换机上的流表匹配资源TCAM(Ternary Content Addressable Memory)是有限的。第三，在SDN网络中仅仅通过添加一系列流表规则来细粒度地分割流量是很难实现的。在论文 \citing{ParaTE2}中提出一种基于GPU的遗传算法来解决业务量工程问题，其代价函数是最大链路利用率（MLU，Max Link Utilization），但是大量基于实际拓扑的实验表明，在网络利用率没有达到拥塞程度的时候，链路利用率效用函数，特别是最大链路利用率，不是对业务量工程效果的较好评价函数 \citing{BeyondMLU}。反之，在网络链路发生拥塞的情况下，仅仅优化链路利用率，无法给出一个满足容量约束的可行解。
 
 \subsection{SDN 弹性光网络下业务量工程算法的研究现状}
-随着视频流、云计算服务和移动应用的普及，互联网的流量不断增加 \citing{EINC}，业务量的持续增长给互联网的传输带来了巨大的挑战。为了满足日益增长的流量需求，波分复用（WDM）系统已部署在骨干网络，其每个通道带宽高达40 GB/s或100 Gb/s。然而，传统的WDM光网络严格遵循ITU-T的固定单位间距（通常为50GHz或100千兆赫) \citing{ETR}，这样会导致低效的频谱利用率，比如，一个较大的波长可能会被分配给一个低速率的业务，即使这个业务根本就不能占满整个波长。很明显，传统WDM光网络的不灵活和粗粒度的带宽控制会导致显著的频谱浪费，限制了提高其网络容量的潜力。
+随着视频流、云计算服务和移动应用的普及，互联网的流量不断增加 \citing{EINC}，业务量的持续增长给互联网的传输带来了巨大的挑战。为了满足日益增长的流量需求，波分复用（WDM）系统已部署在骨干网络，其每个通道带宽高达40 GB/s或100 Gb/s。然而，传统的WDM光网络严格遵循ITU-T的固定单位间距（通常为50GHz或100千兆赫) \citing{ETR}，这样会导致低效的频谱利用率。比如，一个较大的波长可能会被分配给一个低速率的业务，即使这个业务根本就不能占满整个波长。很明显，传统WDM光网络的不灵活和粗粒度的带宽控制会导致显著的频谱浪费，限制了提高其网络容量的潜力。
 
-为了应对WDM网络的低敏捷性和频谱浪费问题，近年来，弹性光网络(Elastic Optical Network,EON)的架构被提出\citing{555}，在EON架构中，存在细粒度的带宽间隙（比如，12.5GHZ），他比WDM 网络所遵循的ITU-T带宽间隙粒度（50GHZ或者100GHZ）要小很多，而且，这些带宽间隙可以根据需要被组合在一起以提供更宽的通道，以灵活地适应各种速率的业务，提高频谱利用率。为了在EON网络中加入业务，控制平面必须在网络中找到一条路径，同时，还需要为业务在此路径上的链路上分配足够的频谱带宽，以创建一个合适的端到端光路连接，这被称为路由和频谱分配（Routing and Spectrum Allocation,RSA）问题。
+为了应对WDM网络的低敏捷性和频谱浪费问题，近年来，弹性光网络(Elastic Optical Network,EON)的架构被提出\citing{555}。在EON架构中，存在细粒度的带宽间隙（比如，12.5GHZ），他比WDM 网络所遵循的ITU-T带宽间隙粒度（50GHZ或者100GHZ）要小很多，而且，这些带宽间隙可以根据需要被组合在一起以提供更宽的通道，以灵活地适应各种速率的业务，提高频谱利用率。为了在EON网络中加入业务，控制平面必须在网络中找到一条路径，同时，还需要为业务在此路径上的链路上分配足够的频谱带宽，以创建一个合适的端到端光路连接，这被称为路由和频谱分配（Routing and Spectrum Allocation,RSA）问题。
 
 RSA问题可以进一步分为静态RSA问题和动态RSA问题。静态的RSA问题出现在网络规划阶段，其中流量需求是已知的，这样可以离线计算出最优解。动态RSA问题是指在实时情况下的业务路由选择和波长分配的优化问题，在动态RSA问题中，业务随机的到达和离开光网络，使得网络中的频谱资源不断变化，RSA问题变得更加困难。
 
-论文\citing{wan}对动态RSA问题进行了研究，作者提出了三种算法，第一种是基于$K$最短路径的动态RSA算法，算法为每个业务求得前$K$条最短路径，并检查这些路径上的频谱资源是否足够，选择一条频谱足够的路径作为业务的路由，但是由于$K$最短路径是预先静态计算出来的，所以算法在网络状态动态变化的情况下表现很差。第二种算法被称为MSP(Modified Shortest Path)，MSP是基于Dijkstra算法的，他在Dijkstra最短路算法的计算过程中加入了对链路频谱的检查，从而得到满足频谱约束的路径，但是MSP算法的优化结果很糟糕。第三种算法被称为SPV（Spectrum Constraint Path Search)，SPV算法可以为业务寻找到满足频谱约束的最短路径，但是SPV算法的计算复杂度为一个指数函数，复杂度过高。
+论文\citing{wan}对动态RSA问题进行了研究，作者提出了三种算法，第一种是基于$K$最短路径的动态RSA算法，算法为每个业务求得前$K$条最短路径，并检查这些路径上的频谱资源是否足够，选择一条频谱足够的路径作为业务的路由。但是由于$K$最短路径是预先静态计算出来的，所以算法在网络状态动态变化的情况下表现很差。第二种算法被称为MSP(Modified Shortest Path)，MSP是基于Dijkstra算法的，他在Dijkstra最短路算法的计算过程中加入了对链路频谱的检查，从而得到满足频谱约束的路径，但是MSP算法的优化结果很糟糕。第三种算法被称为SPV（Spectrum Constraint Path Search)，SPV算法可以为业务寻找到满足频谱约束的最短路径，但是SPV算法的计算复杂度为一个指数函数，复杂度过高。
 
-弹性光网络下的业务量工程问题等价于解决大量业务的RSA问题，也就是说弹性光网络下的业务量工程不仅要优化业务的路由代价，还要把业务安排到满足频谱约束的路径上，这使得弹性光网络下的业务量工程问题比IP网络中的业务量工程问题更加复杂。论文\citing{ELAYER}中提出一种分层图模型来解决WDM网络中的路由和波长分配问题，这种分层图模型也可以很容易地推广到EON网络中，这种分层图模型将频谱分配问题转化为路由选择问题，使得频谱分配和业务量工程问题统一起来。但是分层图模型会引入大量的辅助网络拓扑，我们需要在不同的拓扑上计算路由，这使得业务量工程的计算量大大增加。不过，幸运的是，这些辅助网络拓扑之间的路由计算是相互独立的，我们可以使用并行算法来加速这些路由的计算。
+弹性光网络下的业务量工程问题等价于解决大量业务的RSA问题，也就是说弹性光网络下的业务量工程不仅要优化业务的路由代价，还要把业务安排到满足频谱约束的路径上，这使得弹性光网络下的业务量工程问题比IP网络中的业务量工程问题更加复杂。论文\citing{ELAYER}中提出一种分层图模型来解决WDM网络中的路由和波长分配问题，这种分层图模型也可以很容易地推广到EON网络中。这种分层图模型将频谱分配问题转化为路由选择问题，使得频谱分配和业务量工程问题统一起来。但是分层图模型会引入大量的辅助网络拓扑，我们需要在不同的拓扑上计算路由，这使得业务量工程的计算量大大增加。不过，幸运的是，这些辅助网络拓扑之间的路由计算是相互独立的，我们可以使用并行算法来加速这些路由的计算。
 
 \section{论文内容及结构安排}
 本文各个章节的内容如下：
@@ -71,9 +72,9 @@ RSA问题可以进一步分为静态RSA问题和动态RSA问题。静态的RSA�
 
 第二章 简略介绍了GPU的相关基础原理，包括GPU架构和CUDA编程模型，以帮助理解第三、四章的GPU程序设计思路。
 
-第三章首先将业务量工程问题建模成一个带链路容量约束的MILP模型。为了求解这个模型，本章分别讨论了两种并行算法GA-PTEA（Genetic Algorithm Based Parallel Traffic Engineering Algorithm）和LR-PTEA（Lagrange Relaxing Based Parallel Traffic Engineering Algorithm)。
+第三章首先将业务量工程问题建模成一个带链路容量约束的MILP模型。为了求解这个模型，本章分别讨论了两种并行算法GA-PTEA和LR-PTEA。
 
-第四章主要研究SDN弹性光网络中的业务量工程算法，为了简化频谱分配问题，本章采用分层图模型将弹性光网络中的频谱分配问题转化为路由选择问题。为了优化弹性光网络中业务的路由代价，减小资源使用，降低阻塞率，本章提出了TESAA（Traffic Engineering and Spectrum Allocate Algrithm）优化算法，并对TESAA进行GPU加速设计。
+第四章主要研究SDN弹性光网络中的业务量工程算法，为了简化频谱分配问题，本章采用分层图模型将弹性光网络中的频谱分配问题转化为路由选择问题。为了优化弹性光网络中业务的路由代价，减少资源使用，降低阻塞率，本章提出了TESAA优化算法，并对TESAA进行GPU加速设计。
 
 \include{chapters/c1}
 \include{chapters/c2}
@@ -84,14 +85,14 @@ RSA问题可以进一步分为静态RSA问题和动态RSA问题。静态的RSA�
 
 本文首先简要介绍了GPU的并行优化原理，主要包括GPU与CPU的区别，GPU的架构特点和CUDA编程模式。
 
-第三章在SDN IP网络中，本文将业务量工程问题建模成一个带链路容量约束的以路由代价为目标的MILP模型，为了解决这个MILP模型，本文提出了GA-PTEA和LR-PTEA两种基于GPU的并行算法，并对两种算法的GPU并行设计细节进行了讨论。并行算法GA-PTEA的加速比虽然可以达到20倍以上，但是由于遗传算法收敛缓慢的原因，其时间表现并不理想，另外由于遗传算法容易陷入局部最优解，所以GA-PTEA求得的解比较差，但是本文设计的带资源约束的并行遗传算法也可以应用到其他带资源约束情况下的优化问题中。LR-PTEA能够在短时间内得到业务量工程模型的优化解，说明拉格朗日松弛方法更加适合解决这种资源分配问题，本文设计的对拉格朗日子问题的并行求解方法，可以被应用到其他的以路由代价为目标的优化问题中，如果将优化问题的约束松弛进目标函数后，原优化问题可以被分解为独立的最短路径问题，我们就可以使用本文类似的并行算法来加速这些子问题的求解，这种以路由代价为目标的带资源约束的优化问题，在实际中很常见。
+第三章在SDN IP网络中，本文将业务量工程问题建模成一个带链路容量约束的以路由代价为目标的MILP模型，为了解决这个MILP模型。本文提出了GA-PTEA和LR-PTEA两种基于GPU的并行算法，并对两种算法的GPU并行设计细节进行了讨论。并行算法GA-PTEA的加速比虽然可以达到15倍，但是由于遗传算法收敛缓慢的原因，其时间表现并不理想。另外由于遗传算法容易陷入局部最优解，所以GA-PTEA求得的解比较差。LR-PTEA能够在短时间内得到业务量工程模型的优化解，说明拉格朗日松弛方法更加适合解决这种资源分配问题。本文设计的对拉格朗日子问题的并行求解方法，可以被应用到其他的网络优化问题当中，如果将优化问题的约束松弛进目标函数后，原优化问题可以被分解为独立的最短路径问题，我们就可以使用本文类似的并行算法来加速这些子问题的求解。这种类型的问题其实很常见，比如$\alpha$公平问题的对偶子问题，当$\alpha>1$时也是求解一批业务的最短路径。
 
-第四章针对SDN弹性光网络，本文采用分层图模型将频谱分配问题转化为路由选择问题，并且利用分层图之间的独立特性来设计并行的业务量工程算法PTESAA，利用GPU强大的并行计算能力，PTESAA在不同的分层图上搜索路径，在短时间内为业务的路由选择提供了更大的空间，从而优化了业务的路由代价，节省了网络资源的使用，降低了阻塞率。第四章设计的并行BFS算法的并行粒度为$|E|$，大大高于文献\citing{SSP1}中提出的BFS算法的并行粒度(为$|N|$)，能够获得更高的加速比。第四章设计的动态规划算法可以在多项式时间复杂度（$W_{max}\times|E|$）内解决带跳数约束的最短路径问题，能应用到更多的场景当中。
+第四章针对SDN弹性光网络，本文采用分层图模型将频谱分配问题转化为路由选择问题，并且利用分层图之间的独立特性来设计并行的业务量工程算法PTESAA。利用GPU强大的并行计算能力，PTESAA在不同的分层图上搜索路径，在短时间内为业务的路由选择提供了更大的空间，从而优化了业务的路由代价，节省了网络资源的使用，降低了阻塞率。第四章设计的动态规划算法可以在多项式时间复杂度（$W_{max}\times|E|$）内解决带跳数约束的最短路径问题，能应用到更多的场景当中。
 
 \section{后续工作展望}
-GPU并不擅长分支较多的计算，GPU更加适合加速逻辑简单但计算量很大的任务，而路由算法中计算操作并不多，大部分是逻辑计算，这也是为什么本文中的路由算法只能获得较小加速比的原因，而且本文中的算法只能在业务数量达到一定规模的情况下才能达到加速效果。本文只利用了GPU的并行处理能力，而没有充分利用GPU的大规模浮点计算能力，这也是GPU应用在路由算法上的限制，所以在今后的工作中可以挖掘更多的计算密集型的任务进行GPU加速。
+GPU并不擅长分支较多的计算，GPU更加适合加速逻辑简单但计算量很大的任务，而路由算法中计算操作并不多，大部分是逻辑计算，这也是为什么本文中的路由算法只能获得较小加速比的原因。本文只利用了GPU的并行处理能力，而没有充分利用GPU的大规模浮点计算能力，这也是GPU应用在路由算法上的限制。所以在今后的工作中可以挖掘更多的计算密集型的任务进行GPU加速。
 
-在研究本次毕业设计的过程中，本人除了设计GA-PTEA，LR-PTEA和TESAA算法之外，还针对弹性光网络分层图上的网络流问题进行了基于GPU的并行化研究，本人对预流推进算法进行了并行化的设计并在其中加入跳限约束。但是由于算法逻辑复杂，加速效果并不好，只能在一些特殊情况，比如流很多的情况下才有一定的加速比，所以这部分工作并没有被写进本次设计，后续我将会继续改进这个预流推进算法，希望可以得到好的加速效果。
+在研究本次毕业设计的过程中，本人除了设计GA-PTEA，LR-PTEA和TESAA算法之外，还针对弹性光网络分层图上的网络流问题进行了基于GPU的并行化研究。本人对预流推进算法进行了并行化的设计并在其中加入跳限约束。但是由于算法逻辑复杂，加速效果并不好，只能在一些特殊情况，比如流很多的情况下才有一定的加速比，所以这部分工作并没有被写进本次设计。后续我将会继续改进这个预流推进算法，希望可以得到好的加速效果。
 \thesisacknowledgement
 首先我要感谢我的导师王雄老师，感谢他给我的一切。早在论文开题前，王老师就为我确定好了研究方向，使得我不再迷茫，在毕业设计的研究当中，我常常会因为自己的粗心大意和不严谨的做法导致错误而陷入困难当中，而王老师总是能够耐心的对我进行指导和鼓舞，使我重新找到自信去克服困难，而在论文的写作当中，王老师细致入微地分析我的论文，给我提出了宝贵的修改意见。王老师不仅仅是我科研上的导师，还是我精神上的导师，每每想起和王老师一起探讨算法时的场景，我就非常激动，是王老师让我感受到了算法的无穷魅力，让我找到了我人生想要追寻的方向！在生命的旅程中，能够遇到王老师是我一生的幸运，受用不尽，铭记在心。
 
